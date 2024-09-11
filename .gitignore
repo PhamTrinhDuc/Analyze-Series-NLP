@@ -13,7 +13,6 @@ weight
 # logs
 terminal
 error
-data
 
 # Distribution / packaging
 .Python

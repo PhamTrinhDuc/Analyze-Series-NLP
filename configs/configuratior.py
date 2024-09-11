@@ -3,14 +3,9 @@ import yaml
 
 class Configurator:
     def __init__(self):
-        with open("./configs/config.yaml", 'r') as f:
-            self.app_config = yaml.load(f, Loader=yaml.FullLoader)
-    
-        self.load_crawler_config()
-
-    def load_crawler_config(self):
-        self.url_website = self.app_config['crawler']['url_website']
-        self.name_data = self.app_config['crawler']['name_data']
+        PATH_YAML = "./configs/config.yaml"
+        with open(PATH_YAML, "r") as file:
+            self.app_config = yaml.load(file, Loader=yaml.FullLoader)
 
 
 

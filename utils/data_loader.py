@@ -1,5 +1,7 @@
-from glob import glob
 import pandas as pd
+from glob import glob
+from configs.configurator import CONFIGURATOR
+
 
 
 def load_subtiles_dataset(dataset_path: str) -> pd.DataFrame:
@@ -28,7 +30,7 @@ def load_subtiles_dataset(dataset_path: str) -> pd.DataFrame:
             lines = lines[27:]
             lines = [','.join(line.split(',')[9:].strip()) for line in lines]
         
-        lines = [line.replace('\N', ' ') for line in lines]
+        lines = [line.replace('\\N', ' ') for line in lines]
 
         script = " ".join(lines)
         season = file_path.split('/')[-1].split('-')[0].split("Naruto")[1].strip()
@@ -41,3 +43,9 @@ def load_subtiles_dataset(dataset_path: str) -> pd.DataFrame:
     df = pd.DataFrame.from_dict({"scripts": scripts, "episodes": episodes})
     df.to_csv("data/theme_classification.csv")
     return df
+
+
+if __name__ == "__main__":
+    SUBTITLE_PATH = CONFIGURATOR.subtitle_path
+    df = load_subtiles_dataset(SUBTITLE_PATH)
+    print(df.head())

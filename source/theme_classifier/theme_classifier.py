@@ -7,6 +7,7 @@ import pandas as pd
 from nltk.tokenize import sent_tokenize
 from transformers import pipeline
 from utils.data_loader import load_subtiles_dataset
+from configs.configurator import CONFIGURATOR
 
 
 nltk.download("punkt")
@@ -16,7 +17,7 @@ class ThemeClassifier:
     def __int__(self, theme_list):
         self.device = "cuda" if torch.cuda.is_available() else 'cpu'
         self.theme_list = theme_list
-        self.MODEL_NAME = 'facebook/bart-large-mnli'
+        self.MODEL_NAME = CONFIGURATOR.MODEL_NAME
         self.theme_classifier = self.load_model()
     
     def load_model(self):

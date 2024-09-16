@@ -1,0 +1,8 @@
+
+themeclassifier:
+  model_name: facebook/bart-large-mnli
+
+data:
+  subtitle_path: data/subtitlist
+  dialogue_path: data/naruto.csv
+  jutsu_path : data/jutsu.jsonl

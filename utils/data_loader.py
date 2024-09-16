@@ -3,8 +3,8 @@ from glob import glob
 from configs.configurator import CONFIGURATOR
 
 
-
-def load_subtiles_dataset(dataset_path: str) -> pd.DataFrame:
+DATASET_PATH = CONFIGURATOR.subtitle_path
+def load_subtiles_dataset() -> pd.DataFrame:
     
     """
     - Đọc từng tập trong folder, mỗi tập lấy các dòng chứa hội thoại và mỗi dòng lấy ra đoạn hội thoại. 
@@ -17,7 +17,7 @@ def load_subtiles_dataset(dataset_path: str) -> pd.DataFrame:
         dataframe chứa 2 cột là script và số tập
     """
 
-    subtiles_paths = glob(dataset_path + "/*.ass")
+    subtiles_paths = glob(DATASET_PATH + "/*.ass")
 
     scripts = []
     episodes = []
@@ -28,7 +28,7 @@ def load_subtiles_dataset(dataset_path: str) -> pd.DataFrame:
             lines = file.readlines()
 
             lines = lines[27:]
-            lines = [','.join(line.split(',')[9:].strip()) for line in lines]
+            lines = [','.join(line.split(',')[9:]) for line in lines]
         
         lines = [line.replace('\\N', ' ') for line in lines]
 

@@ -6,3 +6,4 @@ data:
   subtitle_path: data/subtitlist
   dialogue_path: data/naruto.csv
   jutsu_path : data/jutsu.jsonl
+  save_theme_path: data/save_data/theme_score.csv

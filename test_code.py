@@ -1,16 +1,13 @@
+from source.theme_classifier import ThemeClassifier
 
-file_path = "data/subtitlist/Naruto Season 1 - 01.ass"
-with open(file=file_path, mode='r') as file:
-    lines = file.readlines()
 
-    lines = lines[27:]
-    lines = [','.join(line.split(',')[9:]).strip() for line in lines]
+def main():
+    themes = "friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue"
+    themes_list = themes.split(sep=", ")
+    themes_list = [theme for theme in themes_list if theme != "dialogue"]
+    output_pd = ThemeClassifier(themes).get_themes()
+    print(output_pd.head())
 
-lines = [line.replace("\\N",  " ") for line in lines]
-scripts = ' '.join(lines)
-
-season = file_path.split('/')[-1].split('-')[0].split("Naruto")[1].strip()
-episode_num = file_path.split('-')[-1].split('.')[0].strip()
-
-episode = season + " - Episode " + episode_num
-print(episode)
+    
+if __name__ == "__main__":
+    main()

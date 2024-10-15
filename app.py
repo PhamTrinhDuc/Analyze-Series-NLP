@@ -32,7 +32,7 @@ def main():
                 with gr.Column():
                     plot = gr.BarPlot()
                 with gr.Column():
-                    theme_list = gr.Textbox()
+                    theme_list = gr.Textbox(label="Themes")
                     get_themes_button = gr.Button(label="Get Themes")
                     get_themes_button.click(get_themes, inputs=[theme_list])
     

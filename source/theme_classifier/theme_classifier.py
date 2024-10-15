@@ -2,6 +2,7 @@ import os
 import glob
 import nltk
 import torch
+import logging
 import numpy as np
 import pandas as pd
 from typing import List, Dict
@@ -25,11 +26,14 @@ class ThemeClassifier:
         """
         load model với task zero-shot-classification sử dụng pipeline từ thư viện transformers của huggingface
         """
-        model = pipeline(
-            task="zero-shot-classification",
-            model=self.MODEL_NAME,
-            device=self.device
-        )
+        try:
+            model = pipeline(
+                task="zero-shot-classification",
+                model=self.MODEL_NAME,
+                device=self.device
+            )
+        except Exception as e:
+            logging.error(f"Error when loading model [LOAD_MODEL]: {str(e)}")
         return model
     
     def classify_theme(self, scripts) -> Dict:
@@ -40,28 +44,31 @@ class ThemeClassifier:
         Returns:
             themes_scores: dictionary chứa các chủ đề và điểm số tương ứng
         """
-        scripts_sentences = sent_tokenize(scripts)
-
-        sentences_batch_size = 20
-        scripts_batches = []
-        for idx in range(0, len(scripts_sentences), sentences_batch_size):
-            sent = " ".join(scripts_sentences[idx:idx + sentences_batch_size])
-            scripts_batches.append(sent)
-        
-        theme_output = self.theme_classifier(
-            scripts_batches,
-            self.theme_list,
-            mutil_label=True
-        )
-
         themes_scores = {}
-        for output in theme_output:
-            for label, score in zip(output['labels'], output['scores']):
-                if label not in themes_scores:
-                    themes_scores[label] = []
-                themes_scores[label].append(score)
-        
-        themes_scores = {key: np.mean(np.array(value)) for key, value in themes_scores.items()}
+        try:
+            scripts_sentences = sent_tokenize(scripts)
+
+            sentences_batch_size = 20
+            scripts_batches = []
+            for idx in range(0, len(scripts_sentences), sentences_batch_size):
+                sent = " ".join(scripts_sentences[idx:idx + sentences_batch_size])
+                scripts_batches.append(sent)
+            
+            theme_output = self.theme_classifier(
+                scripts_batches,
+                self.theme_list,
+                mutil_label=True
+            )
+
+            for output in theme_output:
+                for label, score in zip(output['labels'], output['scores']):
+                    if label not in themes_scores:
+                        themes_scores[label] = []
+                    themes_scores[label].append(score)
+            
+            themes_scores = {key: np.mean(np.array(value)) for key, value in themes_scores.items()}
+        except Exception as e:
+            logging.error(f"Error when classifying theme [CLASSIFY_THEME]: {str(e)}")
         return themes_scores
     
     def get_themes(self) -> pd.DataFrame:
@@ -70,8 +77,9 @@ class ThemeClassifier:
             return df
         
         df = load_subtiles_dataset()
+        print("ok1")
         theme_scores = df['scripts'].apply(self.classify_theme)
-
+        print("ok2")
         theme_scores_df = pd.DataFrame(theme_scores.tolist())
         df[theme_scores_df.columns] = theme_scores_df
 

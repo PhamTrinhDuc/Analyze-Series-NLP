@@ -3,7 +3,7 @@ from glob import glob
 from configs.configurator import CONFIGURATOR
 
 
-DATASET_PATH = CONFIGURATOR.subtitle_path
+DATASET_PATH = CONFIGURATOR.SUBTITLE_PATH
 def load_subtiles_dataset() -> pd.DataFrame:
     
     """
@@ -46,6 +46,6 @@ def load_subtiles_dataset() -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    SUBTITLE_PATH = CONFIGURATOR.subtitle_path
+    SUBTITLE_PATH = CONFIGURATOR.SUBTITLE_PATH
     df = load_subtiles_dataset(SUBTITLE_PATH)
     print(df.head())

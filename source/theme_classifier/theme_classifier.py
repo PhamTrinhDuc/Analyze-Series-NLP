@@ -18,7 +18,7 @@ class ThemeClassifier:
     def __init__(self, theme_list):
         self.device = "cuda" if torch.cuda.is_available() else 'cpu'
         self.theme_list = theme_list
-        self.MODEL_NAME = CONFIGURATOR.MODEL_NAME
+        self.MODEL_NAME = CONFIGURATOR.MODEL_NAME_CLASSIFY
         self.theme_classifier = self.load_model()
     
     def load_model(self):
@@ -65,8 +65,8 @@ class ThemeClassifier:
         return themes_scores
     
     def get_themes(self) -> pd.DataFrame:
-        if os.path.exists(CONFIGURATOR.save_theme_path):
-            df = pd.read_csv(CONFIGURATOR.save_theme_path)
+        if os.path.exists(CONFIGURATOR.SAVE_THEME_PATH):
+            df = pd.read_csv(CONFIGURATOR.SAVE_THEME_PATH)
             return df
         
         df = load_subtiles_dataset()

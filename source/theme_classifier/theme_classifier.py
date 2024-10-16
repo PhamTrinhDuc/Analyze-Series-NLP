@@ -86,8 +86,7 @@ class ThemeClassifier:
         theme_scores_df = pd.DataFrame(theme_scores.tolist())
         df[theme_scores_df.columns] = theme_scores_df
 
-        # Sava path
-        os.makedirs(os.path.isdir(CONFIGURATOR.save_theme_path), exist_ok=True)
-        df.to_csv(CONFIGURATOR.save_theme_path, index=False)
+        # Save path
+        df.to_csv(CONFIGURATOR.SAVE_THEME_PATH, index=False)
 
         return df

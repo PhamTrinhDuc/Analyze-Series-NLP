@@ -28,13 +28,13 @@ def main():
         with gr.Row():
             with gr.Column():
                 gr.HTML("<h1> Theme Classification (Zero-shot Classifier) </h1>")
-            with gr.Row():
-                with gr.Column():
-                    plot = gr.BarPlot()
-                with gr.Column():
-                    theme_list = gr.Textbox(label="Themes")
-                    get_themes_button = gr.Button("Get Themes")
-                    get_themes_button.click(get_themes, inputs=[theme_list])
+                with gr.Row():
+                    with gr.Column():
+                        plot = gr.BarPlot()
+                    with gr.Column():
+                        theme_list = gr.Textbox(label="Themes")
+                        get_themes_button = gr.Button("Get Themes")
+                        get_themes_button.click(get_themes, inputs=[theme_list])
     
     
     interface.launch(share=True)

@@ -9,7 +9,7 @@ class Configurator:
     DIALOGE_PATH = "data/original/naruto.csv"
     JUTJU_PATH  = "data/original/jutsu.jsonl"
     SAVE_THEME_PATH = "data/save_data/theme_score.csv"
-    SAVE_THEME_CLS_PATH = "data/save_data/theme_classification.csv"
+    SAVE_THEME_SCRIPT_PATH = "data/save_data/scripts_episodes.csv"
 
 
 CONFIGURATOR = Configurator()

@@ -77,9 +77,7 @@ class ThemeClassifier:
             return df
         
         df = load_subtiles_dataset()
-        print("ok1")
         theme_scores = df['scripts'].apply(self.classify_theme)
-        print("ok2")
         theme_scores_df = pd.DataFrame(theme_scores.tolist())
         df[theme_scores_df.columns] = theme_scores_df
 

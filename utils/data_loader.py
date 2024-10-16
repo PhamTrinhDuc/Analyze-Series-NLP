@@ -1,4 +1,5 @@
 import logging
+import os
 import pandas as pd
 from glob import glob
 from configs.configurator import CONFIGURATOR
@@ -17,6 +18,8 @@ def load_subtiles_dataset() -> pd.DataFrame:
     Returns:
         dataframe chứa 2 cột là script và số tập
     """
+    if os.path.exists(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH):
+        return pd.read_csv(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH)
 
     try:
         subtiles_paths = glob(DATASET_PATH + "/*.ass")
@@ -42,7 +45,7 @@ def load_subtiles_dataset() -> pd.DataFrame:
             episodes.append(episode)
 
         df = pd.DataFrame.from_dict({"scripts": scripts, "episodes": episodes})
-        df.to_csv(CONFIGURATOR.SAVE_THEME_CLS_PATH)
+        df.to_csv(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH)
         return df
     except Exception as e:
         logging.error("Error when process data [LOAD_SUBTITLES_DATASET]" + str(e))

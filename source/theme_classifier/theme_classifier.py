@@ -12,8 +12,8 @@ from utils.data_loader import load_subtiles_dataset
 from configs.configurator import CONFIGURATOR
 
 
-nltk.download("punkt")
-nltk.download("punkt_tab")
+# nltk.download("punkt")
+# nltk.download("punkt_tab")
 cnt = 0
 class ThemeClassifier:
     def __init__(self, theme_list):

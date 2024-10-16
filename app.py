@@ -23,21 +23,21 @@ def get_themes(themes_list_str: str):
 
 
 def main():
-    with gr.Blocks() as interface:
+    with gr.Blocks() as iface:
         # Theme Classification Section
         with gr.Row():
             with gr.Column():
-                gr.HTML("<h1> Theme Classification (Zero-shot Classifier) </h1>")
+                gr.HTML("<h1>Theme Classification (Zero Shot Claasifiers)</h1>")
                 with gr.Row():
                     with gr.Column():
                         plot = gr.BarPlot()
                     with gr.Column():
                         theme_list = gr.Textbox(label="Themes")
-                        get_themes_button = gr.Button("Get Themes")
+                        get_themes_button =gr.Button("Get Themes")
                         get_themes_button.click(get_themes, inputs=[theme_list], outputs=[plot])
     
     
-    interface.launch(share=True)
+    iface.launch(share=True)
 
 if __name__ == "__main__":
     # output_chart = get_themes("friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue")

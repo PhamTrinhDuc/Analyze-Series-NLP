@@ -1,5 +1,5 @@
-scrapy==2.8.0
-beatifulsoup4==4.12.3
+# scrapy==2.8.0
+# beatifulsoup4==4.12.3
 Twisted==22.10.0
 transformers==4.44.0
 huggingface_hub==0.24.5

@@ -17,7 +17,7 @@ nltk.download("punkt_tab")
 
 class ThemeClassifier:
     def __init__(self, theme_list):
-        self.device = "cuda" if torch.cuda.is_available() else 'cpu'
+        self.device = 0 if torch.cuda.is_available() else 'cpu'
         self.theme_list = theme_list
         self.MODEL_NAME = CONFIGURATOR.MODEL_NAME_CLASSIFY
         self.theme_classifier = self.load_model()

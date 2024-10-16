@@ -16,7 +16,7 @@ nltk.download("punkt")
 nltk.download("punkt_tab")
 # cnt = 0
 class ThemeClassifier:
-    def __init__(self, theme_list):
+    def __init__(self, theme_list: str = "friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue"):
         self.device = 0 if torch.cuda.is_available() else 'cpu'
         self.theme_list = theme_list
         self.MODEL_NAME = CONFIGURATOR.MODEL_NAME_CLASSIFY
@@ -99,3 +99,13 @@ class ThemeClassifier:
         df.to_csv(CONFIGURATOR.SAVE_THEME_PATH, index=False)
 
         return df
+    
+    def testing(self):
+        """
+        Hàm kiểm tra chức năng của class ThemeClassifier
+        """
+        themes = "friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue"
+        themes_list = themes.split(sep=", ")
+        themes_list = [theme for theme in themes_list if theme != "dialogue"]
+        output_pd = self.get_themes()
+        print(output_pd.head())

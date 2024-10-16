@@ -5,7 +5,6 @@ from nltk import sent_tokenize
 from utils.data_loader import load_subtiles_dataset
 from configs.configurator import CONFIGURATOR
 
-cnt = 0
 class NamedEntityRecognizer:
     
     def __init__(self):
@@ -13,6 +12,7 @@ class NamedEntityRecognizer:
         self.model = self.load_model()
 
     def load_model(self):
+        # !python -m spacy download en_core_web_trf
         nlp_model = spacy.load('en_core_web_trf')
         return nlp_model
     
@@ -27,11 +27,7 @@ class NamedEntityRecognizer:
         Returns:
             list: Danh sách các tập hợp chứa các tên riêng được trích xuất từ các kịch bản.
         """
-        global cnt
-        cnt += 1
-        print(cnt)
-
-        ner_output = []
+        ner_output = set()
         script_sentences = sent_tokenize(scripts)
         for sample_script in script_sentences:
             sentence_ner = self.model(sample_script)
@@ -40,10 +36,13 @@ class NamedEntityRecognizer:
                 if entity.label_ == "PERSON":
                     full_name = entity.text.strip()
                     first_name = full_name.split(" ")[0].strip()
-                    ners.add(first_name)
+                    if first_name.lower() != 'the':
+                        ners.add(first_name)
+
             if len(ners) > 0:
-                ner_output.append(ners)
-        return ner_output
+                ner_output.update(list(ners))
+        print(list(ner_output))
+        return list(ner_output)
     
     def get_ners(self):
         """
@@ -55,14 +54,14 @@ class NamedEntityRecognizer:
             pandas.DataFrame: DataFrame chứa các thực thể được đặt tên.
         """
 
-        if os.path.exists(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH) and 'ners' in self.df.columns:
-            self.df['ners'] = self.df['ners'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
-            return self.df
+        # if os.path.exists(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH) and 'ners' in self.df.columns:
+        #     self.df['ners'] = self.df['ners'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
+        #     return self.df
 
         self.df['ners'] = self.df['scripts'].apply(self.get_named_entities)
         self.df.to_csv(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH, index=False)
         return self.df
     
-    def test(self):
+    def testing(self):
         df  = self.get_ners()
-        print(df.head())
+        print(df.iloc[0]['ners'])

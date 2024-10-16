@@ -12,9 +12,9 @@ from utils.data_loader import load_subtiles_dataset
 from configs.configurator import CONFIGURATOR
 
 
-nltk.download("punkt")
-nltk.download("punkt_tab")
-
+# nltk.download("punkt")
+# nltk.download("punkt_tab")
+cnt = 0
 class ThemeClassifier:
     def __init__(self, theme_list):
         self.device = 0 if torch.cuda.is_available() else 'cpu'
@@ -44,6 +44,9 @@ class ThemeClassifier:
         Returns:
             themes_scores: dictionary chứa các chủ đề và điểm số tương ứng
         """
+        global cnt
+        cnt += 1
+        print(cnt)
         themes_scores = {}
         try:
             scripts_sentences = sent_tokenize(scripts)
@@ -51,14 +54,15 @@ class ThemeClassifier:
             sentences_batch_size = 20
             scripts_batches = []
             for idx in range(0, len(scripts_sentences), sentences_batch_size):
-                sent = " ".join(scripts_sentences[idx:idx + sentences_batch_size])
+                sent = " ".join(scripts_sentences[idx: idx + sentences_batch_size])
                 scripts_batches.append(sent)
-            
+
             theme_output = self.theme_classifier(
-                scripts_batches,
+                scripts_batches[:1],
                 self.theme_list,
                 mutil_label=True
             )
+            # print(theme_output)
 
             for output in theme_output:
                 for label, score in zip(output['labels'], output['scores']):
@@ -77,6 +81,7 @@ class ThemeClassifier:
             return df
         
         df = load_subtiles_dataset()
+        # print(len(df['scripts']))
         theme_scores = df['scripts'].apply(self.classify_theme)
         theme_scores_df = pd.DataFrame(theme_scores.tolist())
         df[theme_scores_df.columns] = theme_scores_df

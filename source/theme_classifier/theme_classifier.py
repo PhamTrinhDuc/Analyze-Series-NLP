@@ -12,8 +12,8 @@ from utils.data_loader import load_subtiles_dataset
 from configs.configurator import CONFIGURATOR
 
 
-# nltk.download("punkt")
-# nltk.download("punkt_tab")
+nltk.download("punkt")
+nltk.download("punkt_tab")
 cnt = 0
 class ThemeClassifier:
     def __init__(self, theme_list):
@@ -76,6 +76,15 @@ class ThemeClassifier:
         return themes_scores
     
     def get_themes(self) -> pd.DataFrame:
+        """
+        Lấy các chủ đề từ tập dữ liệu và trả về chúng dưới dạng DataFrame.
+        Nếu tệp chủ đề đã lưu tồn tại tại đường dẫn được chỉ định bởi CONFIGURATOR.SAVE_THEME_PATH,
+        nó sẽ đọc tệp và trả về DataFrame. Ngược lại, nó sẽ tải tập dữ liệu phụ đề,
+        phân loại chủ đề cho mỗi kịch bản, và lưu DataFrame kết quả vào đường dẫn được chỉ định.
+        Returns:
+            pd.DataFrame: Một DataFrame chứa các chủ đề và điểm số của chúng.
+        """
+
         if os.path.exists(CONFIGURATOR.SAVE_THEME_PATH):
             df = pd.read_csv(CONFIGURATOR.SAVE_THEME_PATH)
             return df

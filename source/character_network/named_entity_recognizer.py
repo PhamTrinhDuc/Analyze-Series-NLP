@@ -36,7 +36,7 @@ class NamedEntityRecognizer:
                 if entity.label_ == "PERSON":
                     full_name = entity.text.strip()
                     first_name = full_name.split(" ")[0].strip()
-                    if first_name.lower() != 'the':
+                    if first_name.lower() not in ['the', 'that', 'this', 'those'] and len(first_name) > 1:
                         ners.add(first_name)
 
             if len(ners) > 0:

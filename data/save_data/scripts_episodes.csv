@@ -1,4 +1,4 @@
-,scripts,episodes
+Unnamed: 0,scripts,episodes,ners
 0,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -303,7 +303,7 @@
  You are assigned to the mission of guarding the Gantetsu convoy!
  Roger!
  Next time: “The Enemy: Ninja Dropouts”
-",Season 8 - Episode 208
+",Season 8 - Episode 208,"['Buddy', 'Shinemon', 'Kiba', 'Tsunade', 'Naruto', 'Akamaru', 'Rogue', 'Roger', 'Genin', 'Fang']"
 1,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -610,7 +610,7 @@
  No way am I going back now!
  Next episode:  ""Pass or Fail: Survival Test""
  Don't miss my outstanding performance!
-",Season 1 - Episode 03
+",Season 1 - Episode 03,"['Sakura', 'Fatty', 'Shino', 'Kiba', 'Jerk', 'Kakashi', 'Naruto', 'Ino', 'Sasuke', 'Hinata', 'Jonin', 'Konohamaru', 'Choji', 'Shikamaru', 'Iruka', 'Sakur--']"
 2,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -928,7 +928,7 @@
  – How can you be calm?! – Oh, shut up!
  You guys step back a little!
  Next time: “Despair: A Fractured Heart.”
-",Season 7 - Episode 171
+",Season 7 - Episode 171,"['Amachi', 'Kabuto', '-Sensei', 'Shino', 'Naruto', 'Chunin', 'Sasuke', 'Anko', 'Ino', 'Shinobi', 'Orochimaru', 'Isaribi', 'Jonin', 'Genin', 'Sensei', 'lsaribi']"
 3,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -1130,7 +1130,7 @@
  Now then…shall I go?
  Cry or laugh, I can only give it my all here!
  Next time, “Fakeout: Shikamaru’s Comeback!”
-",Season 5 - Episode 121
+",Season 5 - Episode 121,"['Sakon', 'Kekkei', 'Kiba', 'Akamaru', 'Willow']"
 4,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -1432,7 +1432,7 @@
  That guy appears.
  Next time, “Hospital Besieged: The Evil Hand Revealed!”
  Who is the next victim?!
-",Season 3 - Episode 57
+",Season 3 - Episode 57,"['Chen', 'Gama', 'Popo', 'Naruto', 'Jiraiya', 'Tyson', 'Sanchez', 'Baki', 'Kazekage', 'Peking', 'Gamabunta', 'Shikamaru', 'Bodimahattaya-san', 'Gaara', 'Chief', 'Ole', 'Temari', 'Hokage', 'Chunin', 'Toad']"
 5,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -1650,7 +1650,7 @@
  Don’t all those things we did together in Squad Seven
  mean anything to you?!
  Next episode, “The Secrets of the Mangekyo Sharingan!”
-",Season 5 - Episode 130
+",Season 5 - Episode 130,"['Neji', 'Sasuke', 'Big', 'Mangekyo', 'Chunin', 'Itachi']"
 6,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -1936,7 +1936,7 @@
  and this is all you've got?
  You've gotta be kidding! Right now, you're not even worth beating!
  Next episode: “Father and Son, the Broken Crest”
-",Season 5 - Episode 129
+",Season 5 - Episode 129,"['Uchiha', 'Report', 'Shisui', 'Hokage', 'Naruto', 'Sasuke', 'Shinobi', 'Big', 'Shikamaru', 'Chunin', 'Itachi']"
 7,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -2264,7 +2264,7 @@
  This is my ultimate secret Taijutsu technique!
  Next Episode: “The Fifth Gate: A Splendid Ninja is Born”
  This is the end!
-",Season 2 - Episode 49
+",Season 2 - Episode 49,"['Lee', 'Ninja', 'Kakashi', 'Neji', 'Naruto', 'Sasuke', 'Bushy', 'Genin', 'Sensei', 'Kunoichi', 'Guy', 'Gaara']"
 8,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -2608,7 +2608,7 @@
  just try to convince me with your sheer strength!
  Next episode: “Ebisu Returns: Naruto’s Toughest Training Yet!”
  I’m gonna win this time around, too!
-",Season 2 - Episode 51
+",Season 2 - Episode 51,"['Nine-Tailed', 'Orochimaru', 'Choji', 'Kin', 'Kinuta', 'Ibiki', 'Sakura', 'Naruto', 'Sasuke', 'Konohamaru', 'Sensei', 'Humph', 'Zaku', 'Hyuga', 'Ninja', 'Kakashi', 'Bushy', 'Iruka', 'Shikamaru', 'Dosu', 'Vendetta', 'Anbu', 'Kabuto', 'Fatso', 'Anko', 'Chunin', 'Itachi']"
 9,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -2829,7 +2829,7 @@
  He really liked you, you know!
  You really don't feel anything?!
  Next Episode: “The Demon in the Snow”
-",Season 1 - Episode 18
+",Season 1 - Episode 18,"['Zabuza', 'Sakura', 'Giichi', 'Grampa', 'Kakashi', 'Naruto', 'Demon', 'Sasuke', 'Mizukage', 'Tazuna', 'Haku', 'Sharingan', 'Inari', 'Gatô', 'Mommy']"
 10,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -3042,7 +3042,7 @@
  But on the contrary, the conditions have been met.
  Guy Sensei, I will use that technique without hesitation.
  Next episode: ""Bushy-Brow's Pledge: Undying Love and Protection!""
-",Season 2 - Episode 30
+",Season 2 - Episode 30,"['Sakura', 'Hokage', 'Naruto', 'Sasuke', 'Anko', 'Orochimaru', 'Roger', 'Uchiha', 'Guy', 'Itachi']"
 11,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -3306,7 +3306,7 @@
  You always do that to me!
  Next time: ""Jiraiya: Naruto's Potential Disaster!""
  What are we gonna do about my training?!
-",Season 4 - Episode 82
+",Season 4 - Episode 82,"['Orochimaru', 'Asuma', 'Guy', 'Chidori', 'Oli', 'Pervy', 'Burn', 'Kisame', 'Sakura', 'Akatsuki', 'Naruto', 'Sasuke', 'Tsukuyomi', 'Kakashi', 'Sharingan', 'Kurenai', 'Genjutsu', 'Jutsu', 'Zabuza', 'Itachi']"
 12,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -3610,7 +3610,7 @@
  We’re going to beat them one and all,
  and definitely going to get Todoroki’s brother back!
  Next time: “To Each His Own Path”
-",Season 9 - Episode 211
+",Season 9 - Episode 211,"['Lee', 'Monju', 'Gantetsu', 'Ninja', 'Naruto', 'Todoroki', 'Akio', 'Shinobi', 'Flames', 'Bushy-Brows']"
 13,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -3933,7 +3933,7 @@
  Open up your eyes and watch me become the Hokage!
  Next episode: ""Genin Takedown! 		All Nine Rookies Face Off!""
  As for me, I'm going to kick butt once again!
-",Season 1 - Episode 22
+",Season 1 - Episode 22,"['Lee', 'Kekkei', ""Bushy-Brow's"", 'Shino', 'Kiba', 'Kakashi', 'Naruto', 'Sasuke', 'Ino', 'Hinata', 'Choji', 'Rock', 'Shikamaru', 'Uchiha', 'Guy']"
 14,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -4205,7 +4205,7 @@
  I'm saying…
  Oh! What the--?!
  Next time: ""An Impossible Choice: The Pain Within Tsunade's Heart""
-",Season 4 - Episode 88
+",Season 4 - Episode 88,"['Burn', 'Ninja', 'Tsunade', 'Naruto', 'Sannin', 'Sasuke', 'Akamaru', 'Orochimaru', 'Sarutobi', 'Iruka', 'Sensei', 'Oli', 'Fever']"
 15,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -4488,7 +4488,7 @@
  I don't know what happened, but take me there, Ton Ton!
  I'm getting a bad feeling about this!
  Next episode, “Ton Ton! I'm Counting on You!”
-",Season 6 - Episode 143
+",Season 6 - Episode 143,"['Mizuki', 'Ton', 'Orochimaru', 'Asuma', 'Guy', 'Pervy', 'Naruto', 'Jiraiya', 'Akamaru', 'Hinata', 'Shizune', 'Tsunade', 'Raijin', 'Iruka', 'Kurenai', 'Temari', 'Neji', 'Chunin', 'Fujin']"
 16,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -4715,7 +4715,7 @@
  Then comes Naruto…
  Let me join in the training too!
  Next time:  ""The Appearance of Strange Visitors""
-",Season 7 - Episode 160
+",Season 7 - Episode 160,"['Bounty', 'Kakashi', 'Naruto', 'Tokichi', 'Gosunkugi', 'Akamaru', 'Hinata', 'Sazanami', 'Fang', 'Gatsu', 'Byakugan']"
 17,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -5063,7 +5063,7 @@
  I’ll chase him down and make him train me without fail!
  All over the world, the sky’s smiling, so look up and smile too
  Oh yeah! Oh yeah!
-",Season 2 - Episode 52
+",Season 2 - Episode 52,"['Sakura', 'Ole', 'Sanchez', 'Shameless', 'Popo', 'Kakashi', 'Hokage', 'Naruto', 'Jutsu', 'Sasuke', 'Jiraiya', 'Harem', 'Ebisu', 'Jonin', 'Bodimahattaya-san', 'Peking', 'Chen', 'Tyson']"
 18,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -5324,7 +5324,7 @@
  It’s just that I get this bad feeling…
  Next episode: “A Shadow in Darkness: Danger Approaches Sasuke”
  I feel uneasy for some reason…
-",Season 2 - Episode 50
+",Season 2 - Episode 50,"['Lee', 'Sakura', 'Kakashi', 'Naruto', 'Neji', 'Sasuke', 'Bushy', 'Jonin', 'Orochimaru', 'Genin', 'Uchiha', 'Guy', 'Gaara']"
 19,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -5606,7 +5606,7 @@
  I've been gulped down!
  Next episode: ""Eat or Be Eaten: Panic in the Forest""
  Will I return to action?!
-",Season 2 - Episode 27
+",Season 2 - Episode 27,"['Lee', 'Sakura', 'Proctor', 'Inopig', 'Naruto', 'Sasuke', 'Ino', 'Hinata', 'Choji', 'Chunin', 'Kunai', 'Ibiki', 'Byakugan']"
 20,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -5834,7 +5834,7 @@
  It’s warm, my entire body is burning,
  and what is this taste that brings energy up from the bottom of my stomach…?
  Next episode: Run! The Curry of Life!
-",Season 6 - Episode 156
+",Season 6 - Episode 156,"['Lee', 'Raiga', 'Chakra', 'Ranmaru', 'Naruto', 'Neji', 'Tenten', 'Grandma', 'Sansho', 'Karashi', 'Byakugan']"
 21,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -6105,7 +6105,7 @@
  I get it! We use this to get through the dark…
  Hey, why did we end up in a place like this?!
  Next: “Too Late for Help”
-",Season 7 - Episode 163
+",Season 7 - Episode 163,"['Ninja', 'Moso', 'Shuriken', 'Chishima', 'Komei', 'Naruto', 'Neji', 'Tenten', 'Roger', 'Sagi', 'Toki', 'Tsurucho', 'Byakugan']"
 22,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -6297,7 +6297,7 @@
  We had no choice. Since you guys are weak…
  Idiot. Don’t take them lightly. These guys are out of the ordinary.
  Next episode, “The Sand Shinobi: Allies of the Leaf”
-",Season 5 - Episode 124
+",Season 5 - Episode 124,"['Lee', 'Kekkei', 'Neji', 'Sasuke', 'Asuma', 'Guy']"
 23,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -6638,7 +6638,7 @@
  Isn't there anything?
  Something, anything... a clue to finding Sasuke!
  Next episode:  ""The Search for the Rare Bikochu Beetle""
-",Season 6 - Episode 147
+",Season 6 - Episode 147,"['Sakura', 'Mizuki', 'Tsunade', 'Hokage', 'Naruto', 'Tsubaki', 'Raijin', 'Ino', 'Sasuke', 'Jutsu', 'Orochimaru', 'Choji', 'Shizune', 'Iruka', 'Shikamaru', 'Fujin', 'lruka', 'Rasengan']"
 24,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -6836,7 +6836,7 @@
  I’m not bleeding, but my chest’s felt weird for a long time.
  It feels stifled and it hurts a lot!
  Next time: “Assassin of the Moonlit Night”
-",Season 3 - Episode 75
+",Season 3 - Episode 75,"['Yashamaru', 'Sasuke', 'Gaara', 'Uchiha', 'Chidori', 'Itachi']"
 25,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -7093,7 +7093,7 @@
  Wait. I got it. Just watch me!
  I will squeeze out my Chakra no matter what!
  Next time,  “A Failure’s True Power.”
-",Season 3 - Episode 61
+",Season 3 - Episode 61,"['Hizashi', 'Ninja', 'Sanchez', 'Ole', 'Popo', 'Hiashi', 'Naruto', 'Neji', 'Hinata', 'Bodimahattaya-san', 'Peking', 'Chen', 'Mark', 'Leaf', 'Tyson', 'Hyuga', 'Lightning']"
 26,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -7374,7 +7374,7 @@
  It’s bugging me, it’s bugging me!
  This isn’t the time for me to be relaxing in the hospital!
  Next episode: “Deep Cover?! A Super S-Rank Mission”
-",Season 6 - Episode 135
+",Season 6 - Episode 135,"['Shikaku', 'Fifth', 'Orochimaru', 'Choji', 'Pervy', 'Sakura', 'Akatsuki', 'Kiba', 'Naruto', 'Jiraiya', 'Sasuke', 'Tsunade', 'Kakashi', 'Sannin', 'Roger', 'Hokage', 'Neji', 'Jutsu', 'Shikamaru', 'Itachi']"
 27,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -7537,7 +7537,7 @@
  But …I can’t give up!
  My next blow is going to be the end!
  Next episode: “The End of Tears”
-",Season 6 - Episode 133
+",Season 6 - Episode 133,"['Ninja', 'Naruto', 'Sa-su', 'Sasuke', 'Orochimaru', 'Iruka']"
 28,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -7854,7 +7854,7 @@
  Huh?
  Next episode: “A Failure Stands Tall!”
  Hinata, fight!
-",Season 2 - Episode 46
+",Season 2 - Episode 46,"['Lee', 'Chakras', 'head', 'Choji', 'Hanabi', 'Sand', 'Sakura', 'Sound', 'Kiba', 'Naruto', 'Akamaru', 'branch', 'Hinata', 'Genin', 'Sensei', 'Hyuga', 'Neji', 'Chunin', 'Byakugan']"
 29,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -8119,7 +8119,7 @@
  Karashi…
  Well, didn’t they get annihilated?
  Next Episode: “Raiga’s Counterattack”
-",Season 6 - Episode 155
+",Season 6 - Episode 155,"['Lee', 'Raiga', 'Kisame', 'K-Karashi', 'L-Lee', 'Kurosuki', 'Boss', 'Ranmaru', 'Naruto', 'Neji', 'Grandma', 'Sansho', 'Karashi', 'Zabuza', 'Byakugan']"
 30,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -8340,7 +8340,7 @@
  Next, for sure, with my ultimate Lotus…!
  Hey, why are you moving forward? I’m his opponent!
  Next episode, “Showdown: Gaara vs. Kimimaro!”
-",Season 5 - Episode 125
+",Season 5 - Episode 125,"['Sakon', 'Genjutsu', 'Sasuke', 'Gaara', 'Iron', 'Crow', 'Ukon', 'Sand']"
 31,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -8604,7 +8604,7 @@
  I am getting excited about it!
  Next episode: ""Gaara vs. Rock Lee: The Power of Youth Explodes!""
  I'm just a little envious of that training.
-",Season 2 - Episode 47
+",Season 2 - Episode 47,"['Lee', 'Chakra', 'Hokage', 'Naruto', 'Neji', 'Sasuke', 'Hinata', 'Gaara', 'Bushy-Brows', 'Guy', 'Byakugan']"
 32,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -8887,7 +8887,7 @@
  I don't care if this guy is a Jonin or whatever.
  I'm gonna beat him and make for the finish line with all my might!
  Next time: ""A Fierce Battle of Rolling Thunder!'
-",Season 4 - Episode 104
+",Season 4 - Episode 104,"['Sakura', 'Fukusuke', 'Jirocho', 'Boss', 'Bastard', 'Tsunade', 'Idate', 'Naruto', 'Jirochi', 'Sasuke', 'Wagarashi', 'Jonin', 'ldate', 'Leaf', 'Aoi', 'Buddha']"
 33,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -9133,7 +9133,7 @@
  But if I take it, if I take it, I will…surely…
  Next time: ""Good-Bye Old Friend! I'll Always Believe in You!""
  Of all people, I cannot forgive you!
-",Season 5 - Episode 113
+",Season 5 - Episode 113,"['Chakra', 'Shino', 'Kiba', 'Neji', 'Naruto', 'Sasuke', 'Jutsu', 'Akimichi', 'Akamaru', 'Choji', 'Shikamaru', 'Tunneling', 'Ablaze']"
 34,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -9433,7 +9433,7 @@
  Awright! I'll do it!
  I'll protect Hinata and the Faint Scent Beetle without fail!
  Next episode: “A Battle of Bugs! The Deceivers and the Deceived!”
-",Season 6 - Episode 149
+",Season 6 - Episode 149,"['Shino', 'Tsunade', 'Kiba', 'Naruto', 'Sasuke', 'Akamaru', 'Jibachi', 'Hinata', 'Suzumebachi', 'Kurobachi', 'Byakugan']"
 35,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -9702,7 +9702,7 @@
  I don't care if she's the candidate to be the Fifth Hokage!
  I'll kick her butt!
  Next time:  ""Unforgivable! A Total Lack of Respect!""
-",Season 4 - Episode 89
+",Season 4 - Episode 89,"['Pervy', 'Burn', 'Han', 'Tsunade', 'Nawaki', 'Sannin', 'Naruto', 'Orochimaru', 'Dan', 'Shizune', 'Kunoichi', 'Oli', 'Cho']"
 36,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -9983,7 +9983,7 @@
  Would that make you feel better?!
  Would that really make your father and sister happy?!
  Next time: “When Time Stands Still”
-",Season 7 - Episode 165
+",Season 7 - Episode 165,"['Moso', 'Hokushin', 'Chishima', 'Kakashi', 'Komei', 'Naruto', 'Neji', 'Jutsu', 'Pakkun', 'Tenten', 'Owashi', 'Cursed', 'Sagi', 'Toki', 'Gaara', 'Sand']"
 37,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -10221,7 +10221,7 @@
  Kakashi Sensei, the rest is up to you.
  Next episode:  ""Kakashi, Sharingan Warrior!""
  I'm going to kick butt once again!
-",Season 1 - Episode 08
+",Season 1 - Episode 08,"['Ninja', 'Kakashi', 'Hokage', 'Naruto', 'Sasuke', 'Tazuna', 'Jonin', 'Manji', 'Zabuza']"
 38,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -10466,7 +10466,7 @@
  There should be some way to intercept her movements.
  Next episode: ""The Sharingan Revived: Dragon-Flame Jutsu!""
  
-",Season 2 - Episode 29
+",Season 2 - Episode 29,"['Ninja', 'Hokage', 'Naruto', 'Jutsu', 'Sasuke', 'Anko', 'Ninjas']"
 39,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -10678,7 +10678,7 @@
  But I really don’t know what’s going on.
  Next time: “Zero Hour! The Destruction of 		the Hidden Leaf Village Begins!”
  What in the world is going on?!
-",Season 3 - Episode 67
+",Season 3 - Episode 67,"['Lee', 'Hitsuji', 'Ne', 'Ushi', 'lnu', 'Tatsu', 'Chidori', 'Sakura', 'Sasuke', 'Lightning', 'Kakashi', 'Tora', 'Mi', 'Saru', 'Roger', 'Gaara', 'Kabuto', 'Uma', 'Jutsu', 'Inu', 'Tori']"
 40,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -10950,7 +10950,7 @@
  Hey. We’re all here.
  Then, I’ll explain the next mission.
  Next time: “Crisis: The Hidden Leaf 11 Gather!”
-",Season 8 - Episode 196
+",Season 8 - Episode 196,"['Lee', 'Yagura', 'Gensho', 'Jako', 'Ryudouin', 'Choji', 'Guy', 'Agira', 'Sakura', 'Rokkaku', 'Kiba', 'Naruto', 'Sensei', 'Bushy', 'Might', 'Puppet', 'Neji', 'Kung', 'Cricket', 'Byakugan']"
 41,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -11289,7 +11289,7 @@
  from Kakashi Sensei?!
  Next episode:  ""You Failed! Kakashi's Final Decision""
  Don't miss my outstanding performance!
-",Season 1 - Episode 04
+",Season 1 - Episode 04,"['Sakura', 'Narutos', 'Kakashi', 'Hokage', 'Naruto', 'Demon', 'Sasuke', 'Jonin', 'Iruka', 'Genin', 'jonin']"
 42,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -11554,7 +11554,7 @@
  These guys are here, which means Sasuke is definitely here!
  I need to fight! I came here to save Sasuke!
  Next time, “Two Heartbeats: Kabuto's Trap”
-",Season 6 - Episode 139
+",Season 6 - Episode 139,"['Pervy', 'Sakura', 'Hanzaki', 'Ya', 'Kabuto', 'Tsunade', 'Naruto', 'Jiraiya', 'Sasuke', 'Jutsu', 'Sasame', 'Orochimaru', 'Arashi', 'Gamakichi']"
 43,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -11811,7 +11811,7 @@
  I'd decided, hadn't I? Not to run away no matter what happens.
  Next episode:  ""The Oath of Pain!""
  I'm going to kick butt once again!
-",Season 1 - Episode 07
+",Season 1 - Episode 07,"['bunny', 'Kakashi', 'Naruto', 'Sasuke', 'Rogue', 'Tazuna', 'Jonin', 'Gato', 'Sharingan', 'Chunin', 'Zabuza']"
 44,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -12133,7 +12133,7 @@
  I get it. Demon Island!
  Let’s go after her! As for me, I can’t just leave her be, believe it!
  Next time: “Infiltration: The Set-Up!”
-",Season 7 - Episode 170
+",Season 7 - Episode 170,"['Hitode', 'Tsunade', 'Hokage', 'Naruto', 'Anko', 'Orochimaru', 'Isaribi', 'lsaribi', 'Itachi']"
 45,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -12451,7 +12451,7 @@
  By the way, when does that pop?
  Next time: “Keep on Training: Pop Goes the Water Balloon!”
  Aw geez! Why won't it pop?!
-",Season 4 - Episode 86
+",Season 4 - Episode 86,"['Lee', 'Burn', 'Pervy', 'Ninja', 'Sakura', 'Leader', 'Tsunade', 'Nine-Tailed', 'Kakashi', 'Naruto', 'Oli', 'Jiraiya', 'Sasuke', 'Sannin', 'Shinobi', 'Pervert', 'Guy']"
 46,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -12840,7 +12840,7 @@
  What happened, Hinata?!
  Naruto… Naruto’s in trouble!
  Next time: “Multiple Traps! Countdown to Destruction”
-",Season 8 - Episode 200
+",Season 8 - Episode 200,"['Genno', 'Tsunade', 'Ichiraku', 'Naruto', 'Neji', 'Akamaru', 'Tenten', 'Hinata', 'Cricket', 'Choji', 'Katsu', 'Shikamaru', 'Leaf', 'Guy']"
 47,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -13133,7 +13133,7 @@
  He bit me!
  Next pisode: “Akamaru Trembles: Gaara’s Cruel Strength!”
  What in the world do you want, anyway?
-",Season 2 - Episode 33
+",Season 2 - Episode 33,"['Lee', 'Sakura', 'Ninja', 'Shuriken', 'Neji', 'Naruto', 'Ino', 'Sasuke', 'Akamaru', 'Orochimaru', 'Choji', 'Kin', 'Shikamaru', 'Leaf', 'Dosu', 'Zaku', 'Cho']"
 48,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -13495,7 +13495,7 @@
  I am moved! I will back up their training myself!
  Huh?!
  Next time: “The Missed Target”
-",Season 8 - Episode 198
+",Season 8 - Episode 198,"['Genno', 'Sakura', 'Shino', 'Tsunade', 'Kiba', 'Ichiraku', 'Jutsu', 'Naruto', 'Ino', 'Neji', 'Hinata', 'Choji', 'Shikamaru', 'Cricket', 'Anbu', 'Byakugan']"
 49,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -13725,7 +13725,7 @@
  This is no joke!
  If you insist on going, I have to take you back by force!
  Next episode: “A Cry on Deaf Ears”
-",Season 5 - Episode 127
+",Season 5 - Episode 127,"['Kekkei', 'Kabuto', 'Kimimaro', 'Shukaku', 'Vine', 'Naruto', 'Sasuke', 'Orochimaru', 'Gaara']"
 50,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -13970,7 +13970,7 @@
  There's not a single person who's not excited about the featured battle.
  Next: ""Dancing Leaf, Squirming Sand""
  I can't take my eyes away from this battle!
-",Season 3 - Episode 64
+",Season 3 - Episode 64,"['Sakura', 'Ole', 'Temari', 'Sanchez', 'Popo', 'Clone', 'Naruto', 'Sasuke', 'Ino', 'Bodimahattaya-san', 'Peking', 'Chen', 'Shikamaru', 'Tyson']"
 51,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -14181,7 +14181,7 @@
  It awakens childhood memory, disappointment, ire, and resolve.
  The cog wheel named destiny slowly begins to turn…
  Next time: “Return of the Morning Mist”
-",Season 4 - Episode 80
+",Season 4 - Episode 80,"['Guy', 'Burn', 'Sakura', 'Temari', 'Kakashi', 'Hokage', 'Naruto', 'Leaves', 'Third', 'Obito', 'Shinobi', 'Orochimaru', 'Sarutobi', 'Gaara', 'Iruka', 'Hayate', 'Oli', 'Kankuro']"
 52,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -14453,7 +14453,7 @@
  I won’t give up! I’ll stop him, no matter what!
  Next time: “The Byakugan Sees the Blind Spot!”
  I’m going to risk everything in this single attack!
-",Season 8 - Episode 189
+",Season 8 - Episode 189,"['Kikunojou', 'Janin', 'Renga', 'Hokage', 'Naruto', 'Jutsu', 'Yurinojou', 'Hinata', 'Ruiga', 'Choji', 'Jiga', 'Kikusuke', 'Shadow']"
 53,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -14701,7 +14701,7 @@
  I’ll go with you.
  No. Do you guys want to start a war with the Hidden Star?
  Next time: “The Star’s Radiance.”
-",Season 7 - Episode 182
+",Season 7 - Episode 182,"['Hoshikage', 'Tsunade', 'Naruto', 'Neji', 'Rogue', 'Natsuhiboshi', 'Hidden', 'Natsuhi', 'star', 'Akahoshi', 'Kujaku', 'Beast', 'Sumaru', 'Shadow', 'Hokuto', 'Forsake', 'Natsuboshi']"
 54,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -15070,7 +15070,7 @@
  But to me, this is the moment…
  – to follow through with my own Ninja Way! – to follow through with my own Ninja Way!
  Next time: “Hot-Blooded Confrontation: Student vs. Sensei”
-",Season 8 - Episode 195
+",Season 8 - Episode 195,"['Lee', 'Sakura', 'Yagura', 'Tsunade', 'Naruto', 'Neji', 'Bushy', 'Tenten', 'Tsunada', 'Intense', 'Rock', 'Cricket', 'Sensei', 'Harutaro', 'Guy']"
 55,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -15414,7 +15414,7 @@
  You’re the one who’s going to get his butt kicked.
  Next time: “Akamaru Unleashed! Who’s Top Dog Now?”
  Don’t take me lightly!
-",Season 2 - Episode 43
+",Season 2 - Episode 43,"['Lee', 'Choji', 'Kin', 'Guy', 'Sand', 'Sakura', 'Kiba', 'Naruto', 'Sasuke', 'Akamaru', 'Tenten', 'Hinata', 'Ino', 'Bushy', 'Senbons', 'Temari', 'Hokage', 'Neji', 'Tsuchi', 'Shikamaru', 'Killer', 'me']"
 56,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -15656,7 +15656,7 @@
  I won't forgive you, you bastard!
  I'm gonna beat the hell outta you!
  Next time:  ""When Egrets Flap Their Wings""
-",Season 7 - Episode 166
+",Season 7 - Episode 166,"['Ninja', 'Moso', 'Chishima', 'Hatake', 'Kakashi', 'Komei', 'Hoki', 'Naruto', 'Sasuke', 'Jutsu', 'Owashi', 'Shikamaru', 'Leaf', 'Sagi', 'Toki', 'Gaara']"
 57,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -15876,7 +15876,7 @@
  Are you an idiot?! Me, Akamaru, Shikamaru, and you!
  No matter how you count, there are four!
  Next episode: “The Vessel Arrives Too Late”
-",Season 5 - Episode 117
+",Season 5 - Episode 117,"['Kimimaro', 'Gentle', 'Naruto', 'Neji', 'Sasuke', 'Akamaru', 'Orochimaru', 'Choji', 'Shikamaru', 'Chunin', 'Kunai', 'Hyuga', 'Byakugan']"
 58,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -16132,7 +16132,7 @@
  Sorry. The responsibility rests on me, the leader.
  Let it go… Sacrifice is a part of Shinobi missions.
  Next time: “The Death of Naruto.”
-",Season 7 - Episode 164
+",Season 7 - Episode 164,"['Moso', 'Kakashi', 'Komei', 'Naruto', 'Jutsu', 'Neji', 'Tenten', 'Warrior', 'Yakitori', 'Owashi', 'Gamakichi', 'Sagi', 'Byakugan', 'Gamatatsu']"
 59,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -16421,7 +16421,7 @@
  It doesn’t matter if you guys are powerhouses!
  I’ll kick all of your butts, so bring it on from anywhere!
  Next episode, “Pure Betrayal, and a Fleeting Plea!”
-",Season 6 - Episode 137
+",Season 6 - Episode 137,"['Pervy', 'Sakura', 'Blade', 'Ninja', 'Kagero', 'Naruto', 'Jutsu', 'Sasuke', 'Jiraiya', 'Sasame', 'Shinobi', 'Orochimaru', 'Jigumo', 'Arashi', 'Rasengan']"
 60,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -16805,7 +16805,7 @@
  Here I come Naruto! Please become my first.
  Just a minute.
  Next Time: “Viva Dojo Challenge! Youth is all about Passion!”
-",Season 8 - Episode 192
+",Season 8 - Episode 192,"['Pervy', 'Hail', 'Fuku', 'Tsunade', 'Naruto', 'Ino', 'Hidden', 'Choji', 'lntense-Brow', 'Cricket', 'Chikara']"
 61,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -17098,7 +17098,7 @@
  Good. Just keep eating away so you'll have no regrets about your life.
  Next time, ""Live or Die: Risk it All to Win it All!""
  Is this sage hiding something from me?
-",Season 3 - Episode 55
+",Season 3 - Episode 55,"['Lee', 'Orochimaru', 'Choji', 'Chen', 'Asuma', 'Guy', 'Pervy', 'Sakura', 'Popo', 'Ichiraku', 'Naruto', 'Sasuke', 'Tyson', 'Sanchez', 'Ino', 'Peking', 'Hayate', 'Kurenai', 'Bodimahattaya-san', 'Gekko', 'Kabuto', 'Ole', 'Neji', 'Jutsu', 'Anko', 'Shikamaru']"
 62,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -17352,7 +17352,7 @@
  And now, I also will put my life on the line.
  From this moment, I am the Fifth Hokage!
  Next time: ""The Fifth Hokage! A Life on the Line!""
-",Season 4 - Episode 94
+",Season 4 - Episode 94,"['Burn', 'Kabuto', 'Tsunade', 'Kakashi', 'Jutsu', 'Jiraiya', 'Sannin', 'Naruto', 'Orochimaru', 'Shizune', 'Gamakichi', 'Uchiha', 'Rasengan', 'Shadow', 'Oli']"
 63,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -17544,7 +17544,7 @@
  If that’s the case, I’m just a really lame guy…
  Aren’t I? Sasuke?
  Next episode: “For a Friend”
-",Season 6 - Episode 131
+",Season 6 - Episode 131,"['Shisui', 'Neji', 'Sasuke', 'Big', 'Mangekyo', 'Shikamaru', 'Itachi']"
 64,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -17823,7 +17823,7 @@
  I’ll kick the butts of the devil and the snake.
  And I’ll save Sasuke and Arashi!
  Next episode, “Pure Terror! The House of Orochimaru”
-",Season 6 - Episode 138
+",Season 6 - Episode 138,"['Pervy', 'Sakura', 'Ninja', 'Hanzaki', 'Kagero', 'Naruto', 'Jutsu', 'Sasuke', 'Sasame', 'Orochimaru', 'Jigumo', 'Arashi', 'Rasengan', 'in', 'Kamikiri']"
 65,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -18039,7 +18039,7 @@
  How should I stop him? Do I need to use that…?
  But Chidori may not…
  Next time: “Sasuke’s Decision: Pushed to the Edge!”
-",Season 3 - Episode 74
+",Season 3 - Episode 74,"['Sakura', 'Temari', 'Shino', 'Naruto', 'Chunin', 'Sasuke', 'Kankuro', 'Jonin', 'Konohamaru', 'Sarutobi', 'Uchiha', 'Crow', 'Chidori', 'Gaara']"
 66,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -18317,7 +18317,7 @@
  But I don’t think we will allow him to leave so easily.
  What is your purpose?!
  Next time: “Sharingan vs. Sharingan!”
-",Season 4 - Episode 81
+",Season 4 - Episode 81,"['Konohomaru', 'Obito', 'Orochimaru', 'Koharu', 'Uchiha', 'Asuma', 'Oli', 'Pervy', 'Burn', 'Kisame', 'Naruto', 'Jiraiya', 'Sasuke', 'Konohamaru', 'Tsunade', 'Kakashi', 'Sannin', 'Kazekage', 'Sarutobi', 'Kurenai', 'Kabuto', 'Hokage', 'Anko', 'Itachi']"
 67,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -18524,7 +18524,7 @@
  Moreover, you have…Sharingan!
  Next time, “Late for the Show, But Ready to Go! 		The Ultimate Secret Technique is Born!”
  I am really envious of you, Sasuke!
-",Season 3 - Episode 66
+",Season 3 - Episode 66,"['Lee', 'Sakura', 'Tori', 'Ne', 'Kakashi', 'Hokage', 'Naruto', 'Sasuke', 'Bushy', 'Hinata', 'Saru', 'Shikamaru', 'Sharingan', 'Tatsu', 'Guy', 'Anbu', 'Gaara']"
 68,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -18800,7 +18800,7 @@
  I’m so happy…
  Next time, ""He Flies! He Jumps! He Lurks! Chief Toad Appears!""
  He’s seriously scary. I’ve never seen a toad like this one.
-",Season 3 - Episode 56
+",Season 3 - Episode 56,"['Orochimaru', 'Chen', 'Pervy', 'Sakura', 'Popo', 'Naruto', 'miso', 'Konohamaru', 'Tyson', 'Sanchez', 'Peking', 'Iruka', 'Bodimahattaya-san', 'Ole', 'Hokage', 'Jutsu', 'Anko', 'Gonta', 'Toad']"
 69,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -19099,7 +19099,7 @@
  What is it?
  Let me borrow Sakura.
  Next time: “The Targeted Shukaku”
-",Season 9 - Episode 215
+",Season 9 - Episode 215,"['Sakura', 'Naruto', 'Neji', 'Shiin', 'Gaara', 'Fuki', 'Rasengan', 'Menma', 'Byakugan']"
 70,"Gaara.
  Kankuro.
  Gaara.
@@ -19344,7 +19344,7 @@
  Please hurry, Naruto, Lee.
  You two are the only ones who can help Gaara now.
  Next time: “Sealed Sand: the Counterattack!”
-",Season 9 - Episode 217
+",Season 9 - Episode 217,"['Lee', 'Choji', 'Sand', 'Suiko', 'Kiba', 'Naruto', 'Hinata', 'Shino', 'Ino', 'Black', 'Kankuro', 'Crow', 'Kabuki', 'Matsuri', 'Gaara', 'Temari', 'Neji', 'Kujaku', 'Shikamaru', 'Byakugan']"
 71,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -19632,7 +19632,7 @@
  Sensei, Sakura, please hold out somehow until we get there.
  Next episode:  ""Zero Visibility: The Sharingan Shatters.""
  As for me, I'll kick butt once again!
-",Season 1 - Episode 14
+",Season 1 - Episode 14,"['Sakura', 'Ninja', 'Kakashi', 'Naruto', 'Jutsu', 'Sasuke', 'Tazuna', 'Haku', 'Gato', 'Iruka', 'Sensei', 'Zabuza']"
 72,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -19884,7 +19884,7 @@
  It's like you said.
  I have no choice but to use it!
  Next time: ""Roar and Howl! The Ultimate Tag-Team!""
-",Season 5 - Episode 119
+",Season 5 - Episode 119,"['Kabuto', 'Kimimaro', 'Tayuya', 'Kekkai', 'Kiba', 'Hokage', 'Naruto', 'Jutsu', 'Akamaru', 'Sasuke', 'Orochimaru', 'Shikamaru']"
 73,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -20225,7 +20225,7 @@
  Be ready for that!
  Next time:  ""The Will of Fire Still Burns!""
  Don't miss it!
-",Season 4 - Episode 98
+",Season 4 - Episode 98,"['Lee', 'Guy', 'Oli', 'Burn', 'Sakura', 'Naruto', 'Akamaru', 'McCoy', 'Sasuke', 'Hinata', 'Konohamaru', 'Tsunade', 'Kakashi', 'Bushy', 'Grandpa', 'Iruka', 'Hokage', 'Neji', 'Shikamaru', 'Pa']"
 74,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -20482,7 +20482,7 @@
  No, not Karashi, but this weather.
  Next episode: “The Dark Creeping Clouds”
  I see. There’s going to be a storm.
-",Season 6 - Episode 154
+",Season 6 - Episode 154,"['Lee', 'Raiga', 'U-zu-ma-ki', 'Zabuza', 'Kisame', 'Rokusuke', 'Kurosuki', 'Ranmaru', 'Neji', 'Naruto', 'Bushy', 'Shinobi', 'Sansho', 'Karashi', 'Lightning', 'my', 'Byakugan']"
 75,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -20750,7 +20750,7 @@
  I’m the hyperactive knucklehead Ninja!
  This is the start of the spiraling series of Naruto’s Ninja Handbook!
  Next time: “Naruto’s Ninja Handbook”
-",Season 3 - Episode 77
+",Season 3 - Episode 77,"['Yashamaru', 'Sakura', 'Naruto', 'Jutsu', 'Kazekage', 'Sasuke', 'Orochimaru', 'Sarutobi', 'lruka', 'Gaara']"
 76,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -21043,7 +21043,7 @@
  We witness with our own eyes,
  the creature of the legend handed down from generation to generation.
  Next time: “A Legend from the Hidden Leaf: 		The Onbaa!
-",Season 8 - Episode 184
+",Season 8 - Episode 184,"['Sis', 'Sakura', 'Hana', 'Shino', 'Kiba', 'Tsunade', 'Naruto', 'Akamaru', 'Shadow']"
 77,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -21277,7 +21277,7 @@
  And someday, they will illuminate this Village…
  just as you have done for us!
  Next time:  ""The Third Hokage, Forever…""
-",Season 4 - Episode 79
+",Season 4 - Episode 79,"['Burn', 'Sakura', 'Shino', 'Naruto', 'Jutsu', 'Orochimaru', 'Konohamaru', 'Roger', 'Hayate', 'Kuromaru', 'Gamakichi', 'Oli']"
 78,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -21633,7 +21633,7 @@
  No!
  I knew it! You ARE afraid!
  Next time: “The Cursed Warrior”
-",Season 7 - Episode 161
+",Season 7 - Episode 161,"['Lee', 'Sakura', 'Chief', 'Ninja', 'Poccha', 'Tsunade', 'Hokage', 'Naruto', 'Katsuyu', 'Bushy', 'Genin', 'Leaf', 'Guy', 'Tamaya', 'Mondai', 'lt']"
 79,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -21976,7 +21976,7 @@
  He’s got to have some kind of reason.
  So please save Menma!
  Next time: “A Past to Be Erased”
-",Season 9 - Episode 214
+",Season 9 - Episode 214,"['Ninja', 'Tsunade', 'Naruto', 'Neji', 'Sasuke', 'Tenten', 'Orochimaru', 'Fuki', 'Shizune', 'Shikamaru', 'Leaf', 'Menma', 'Ran']"
 80,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -22222,7 +22222,7 @@
  We've got to stop this fight, no matter what!
  Next time, ""Bushy Brow's Jutsu: Sasuke Style!""
  If nothing's done, Sasuke's a goner!
-",Season 3 - Episode 65
+",Season 3 - Episode 65,"['Uchiha', 'Genma', 'Lee', 'Sakura', 'Temari', 'Kakashi', 'Hokage', 'Naruto', 'Neji', 'Sasuke', 'Kazekage', 'Cripes', 'Genin', 'Shikamaru', 'Hyuga', 'Sasu', 'Gaara']"
 81,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -22499,7 +22499,7 @@
  Keep it up and 					attack hard!
  Nex time, ""Zero Motivation: The Guy with Cloud Envy!""
  Ino, your cheering is kinda scary.
-",Season 3 - Episode 63
+",Season 3 - Episode 63,"['Orochimaru', 'Chen', 'Uchiha', 'Hizashi', 'Shikamar', 'Popo', 'Naruto', 'Chunin', 'Sasuke', 'Hinata', 'Tyson', 'Hyuga', 'Lightning', 'Ninja', 'Sanchez', 'Shino', 'Kazekage', 'Peking', 'Bodimahattaya-san', 'Gaara', 'Ole', 'Hiashi', 'Neji', 'Hokage', 'Shikamaru', 'Kankuro']"
 82,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -22720,7 +22720,7 @@
  It’s not brainwashing! That person understands me!
  What do you guys know?!
  Next episode, “Vengeful Strike! The Bracken Dance!”
-",Season 5 - Episode 126
+",Season 5 - Episode 126,"['Dawn', 'Kimimaro', 'Neji', 'Sasuke', 'Orochimaru', 'Bones', 'Zabuza', 'Gaara']"
 83,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -23061,7 +23061,7 @@
  Think about what happened yesterday.
  Each of you, tackle this with care. Scatter!
  Next time: “The Closed Door”
-",Season 7 - Episode 169
+",Season 7 - Episode 169,"['Sakura', 'Chief', 'Sensei', 'Shino', 'Tsunade', 'Naruto', 'Jutsu', 'Ino', 'Anko', 'Orochimaru', 'Choji', 'Yamanaka', 'A-Anko', 'Shikamaru', 'Asuma', 'Toad']"
 84,"Summoning Jutsu!
  Oh, long time no see.
  We don’t have much time to get nostalgic.
@@ -23353,7 +23353,7 @@
  We don’t need your help to deal with these chumps.
  You hurry, Gaara. That girl is your student, isn’t she?
  Next time: ""Sand Alliance with The Leaf Shinobi""
-",Season 9 - Episode 216
+",Season 9 - Episode 216,"['Lee', 'Seimei', 'Choji', 'Sakura', 'Kiba', 'Naruto', 'Sasuke', 'Akamaru', 'Hinata', 'Shizune', 'Ninja', 'Shino', 'Tsunade', 'Baki', 'Ino', 'Matsuri', 'Byakugan', 'Gaara', 'Temari', 'Jutsu', 'Neji', 'Shikamaru', 'Kankuro']"
 85,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -23567,7 +23567,7 @@
  I'll definitely get stronger.
  Next time:  ""The Forest of Chakra.""
  I'm going to kick butt once again!
-",Season 1 - Episode 09
+",Season 1 - Episode 09,"['ushi', 'lnu', 'Tracker', 'Shuriken', 'Jin', 'mi', 'Naruto', 'Sasuke', 'Tazuna', 'hitsuji', 'uma', 'Kakashi', 'tatsu', 'saru', 'Jutsu', 'Rogue', 'Gato', 'tori', 'Tori', 'Zabuza']"
 86,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -23882,7 +23882,7 @@
  – Yeah! 					– Yeah!
  Then let's go! This is our trump card!
  Next episode,  ""A New Formation: Ino-Shika-Cho!""
-",Season 6 - Episode 144
+",Season 6 - Episode 144,"['Mizuki', 'Hokage', 'Naruto', 'Raijin', 'Shinobi', 'Orochimaru', 'Iruka', 'Shikamaru', 'Leaf', 'Herculean']"
 87,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -24095,7 +24095,7 @@
  This is bad. I’m at a disadvantage if the fight drags on.
  And if he noticed that, then…
  Next time: “360 Degrees of Vision: The Byakugan’s Blind Spot!”
-",Season 5 - Episode 115
+",Season 5 - Episode 115,"['Sakon', 'Tayuya', 'Kiba', 'Naruto', 'Neji', 'Akamaru', 'Jutsu', 'Sasuke', 'Jirobo', 'Choji', 'Orochimaru', 'Hayate', 'Iruka', 'Shikamaru', 'Fang', 'Byakugan']"
 88,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -24441,7 +24441,7 @@
  N-Naruto…
  What you’re talking about is an ordinary cockroach.
  Next episode: “What’s the Difference? Don’t All Insects Look Alike?”
-",Season 6 - Episode 148
+",Season 6 - Episode 148,"['Pervy', 'Mizuki', 'Shino', 'Tsunade', 'Kiba', 'Hokage', 'Naruto', 'Neji', 'Sasuke', 'Akamaru', 'Hinata', 'Orochimaru', 'Genin', 'Kurenai', 'Leaf', 'Byakugan']"
 89,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -24705,7 +24705,7 @@
  – Did you say something? – No, nothing.
  I was just remembering the old days.
  Next time: ""Inheritance! ""The Necklace of Death!""
-",Season 4 - Episode 90
+",Season 4 - Episode 90,"['Pervy', 'Burn', 'Old', 'Kabuto', 'Tsunade', 'Kakashi', 'Hokage', 'Naruto', 'Jiraiya', 'Sannin', 'Sasuke', 'Orochimaru', 'Sarutobi', 'Shizune', 'Genin', 'Leaf', 'Oli']"
 90,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -24963,7 +24963,7 @@
  There is only one choice.
  Next time, “A Shirker’s Call to Action: Layabout No More!”
  It isn’t my style, but we have no choice, I guess.
-",Season 3 - Episode 69
+",Season 3 - Episode 69,"['Sakura', 'Genjutsu', 'Kakashi', 'Pakkun', 'Naruto', 'Jutsu', 'Sasuke', 'Ino', 'Hokage', 'Orochimaru', 'Choji', 'Sarutobi', 'Konohamaru', 'Iruka', 'Shikamaru', 'Gaara']"
 91,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -25208,7 +25208,7 @@
  That’s why I want to change the kind of person I am!
  This time, this time, it’s my turn to give it my all!
  Next time, “Sakura's Determination!”
-",Season 6 - Episode 140
+",Season 6 - Episode 140,"['Sakura', 'Kabuto', 'Kagero', 'Tsunade', 'Naruto', 'Jiraiya', 'Sasuke', 'Sasame', 'Orochimaru', 'Arashi', 'Rasengan']"
 92,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -25502,7 +25502,7 @@
  My training is not completed yet…
  I've got to play it by ear and rely on a one-shot deal!
  Next time: ""A Dubious Offer! Tsunade's Choice""
-",Season 4 - Episode 91
+",Season 4 - Episode 91,"['Burn', 'Ninja', 'Tsunade', 'Nawaki', 'Naruto', 'Jiraiya', 'Grandfather', 'Orochimaru', 'Dan', 'Shizune', 'Humph', 'Rasengan', 'Oli']"
 93,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -25709,7 +25709,7 @@
  There’s no point if I don’t exceed the serious you.
  Next episode: “Kunoichi Rumble: The Rivals Get Serious!”
  Let’s have a fair fight.
-",Season 2 - Episode 40
+",Season 2 - Episode 40,"['Shino', 'Kakashi', 'Neji', 'Sasuke', 'Kankuro', 'Ino', 'Orochimaru', 'Sharingan', 'Zaku', 'Yoroi', 'Byakugan', 'Tsurugi']"
 94,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -25951,7 +25951,7 @@
  What was that?! Give 'em some more, Akamaru!
  Well, if things come to this, I'll use that special weapon, Rasengan!
  Next time: ""Squad Mutiny: Everything Falls Apart!""
-",Season 5 - Episode 111
+",Season 5 - Episode 111,"['Lee', 'Ninja', 'Raido', 'Kiba', 'Naruto', 'Fifth', 'Sasuke', 'Akamaru', 'Orochimaru', 'Jonin', 'Shizune', 'Shikamaru', 'Leaf', 'Byakugan']"
 95,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -26216,7 +26216,7 @@
  Blah-blah-blah, trying to look good…
  Your scheme to go into a weird shop again is totally obvious!
  Next episode, “A Town of Outlaws! The Shadow of the Fuma Clan”
-",Season 6 - Episode 136
+",Season 6 - Episode 136,"['Pervy', 'Sakura', 'Hokage', 'Naruto', 'Jiraiya', 'Sasuke', 'Rogue', 'Orochimaru', 'Pops', 'Brothel']"
 96,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -26477,7 +26477,7 @@
  But you…
  Darn! I won't forgive you!
  Next episode:  ""The Broken Seal""
-",Season 1 - Episode 15
+",Season 1 - Episode 15,"['Sakura', 'Kakashi', 'Naruto', 'Jutsu', 'Sasuke', 'Jutsus', 'Tazuna', 'Haku', 'Sharingan', 'Zabuza']"
 97,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -26795,7 +26795,7 @@
  I'm going to tell the teachers about that bruise.
  Next episode: ""Narrowing the Field: Sudden Death Elimination!""
  Sasuke, I'm scared.
-",Season 2 - Episode 37
+",Season 2 - Episode 37,"['worthy', 'Shinobi', 'Orochimaru', 'Guy', 'Sakura', 'Naruto', 'Sasuke', 'Akamaru', 'Chunins', 'Humph', 'Ramen', 'Kakashi', 'Hayate', 'Iruka', 'Anbu', 'Kabuto', 'Hokage', 'Anko', 'Chunin']"
 98,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -27000,7 +27000,7 @@
  I will bring you down!
  Today is the last day that we are called Sannin!
  Next time:  ""Deadlock! Sannin Showdown!""
-",Season 4 - Episode 95
+",Season 4 - Episode 95,"['Burn', 'Akatsuki', 'Tsunade', 'Hokage', 'Naruto', 'Sannin', 'Orochimaru', 'Gamakichi', 'Leaf', 'Rasengan', 'Oli']"
 99,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -27360,7 +27360,7 @@
  Suddenly with a strike of thunder, heavy rain begins to fall down.
  What could be the true identity of the Iron Castle that appeared?!
  Next Time: “The Mysterious Curse of the Haunted Castle”
-",Season 8 - Episode 193
+",Season 8 - Episode 193,"['Lee', 'Guy', 'Sakura', 'DOJO', 'roger', 'Sensei', 'Tsunade', 'Might', 'Naruto', 'Ino', 'Bushy', 'Nanafushi', 'Intense', 'Cricket', 'Rock', 'Shikamaru', 'Dojo']"
 100,"Here we are, here we are, here we are!
  “The Golden Time”!
  Starting tonight, “NARUTO” will be airing every Wednesday, from 7:27 at night!
@@ -27754,7 +27754,7 @@
  Next time: “The Chunin Exam Stage 2: The Forest of Death!”
  As for me, I’m going to kick butt again!
  
-",Season 1 - Episode 26
+",Season 1 - Episode 26,"['Harem', 'Tiger', 'Choji', 'Uchiha', 'Kekkei', 'Sakura', 'Moegi', 'Bro', 'Kiba', 'Naruto', 'Sasuke', 'Akamaru', 'Hinata', 'Konohamaru', 'Kunoichi', 'Leader', 'Shino', 'Kakashi', 'Iruka', 'Missus', 'Gaara', 'lno', 'Hokage', 'Bushy-Brow’s', 'Shikamaru']"
 101,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -27984,7 +27984,7 @@
  I chose this daffodil for him, hoping Sasuke will get better soon.
  Next time, ""A Feeling of Yearning, A Flower Full of Hope""
  Cha! This is it!
-",Season 3 - Episode 54
+",Season 3 - Episode 54,"['Orochimaru', 'Chen', 'Sand', 'Pervy', 'Proctor', 'Popo', 'Naruto', 'Jiraiya', 'Sasuke', 'Tyson', 'Sanchez', 'Kazekage', 'Ino', 'Peking', 'Hayate', 'Bodimahattaya-san', 'Ole', 'Hokage', 'Jutsu']"
 102,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -28300,7 +28300,7 @@
  Then, me, too…
  Hold it, Naruto.
  Next: “Hidden Jutsu! The Price of the Ninja Art: Kujaku.”
-",Season 7 - Episode 179
+",Season 7 - Episode 179,"['Lee', 'Ninja', 'Mizura', 'Chakra', 'Hoshikage', 'Naruto', 'Neji', 'Natsuhiboshi', 'Tenten', 'Shinobi', 'Kujaku', 'Akahoshi', 'Sumaru', 'Leaf', 'Shadow', 'Hokuto', 'Byakugan']"
 103,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -28525,7 +28525,7 @@
  All right! I am going to enjoy the festival!
  Next time: “A New Training Begins: I Will Be Strong!”
  Wait. What are we gonna do about my training?
-",Season 4 - Episode 85
+",Season 4 - Episode 85,"['Pervy', 'Burn', 'Kisame', 'Guy', 'Tsunade', 'Kakashi', 'Naruto', 'Jiraiya', 'Sasuke', 'Jutsu', 'Tsukuyomi', 'Humph', 'Amaterasu', 'Oli', 'Gamble']"
 104,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -28825,7 +28825,7 @@
  Isn’t that right?!
  Like heck I’d get it, Cha!
  Next time: “Mix It! Stretch it! Boil it up! 		Burn Copper Pot! Burn!”
-",Season 7 - Episode 167
+",Season 7 - Episode 167,"['Sakura', 'Moso', 'Chishima', 'Kakashi', 'Komei', 'Naruto', 'Hoki', 'McCoy', 'Neji', 'Tenten', 'Owashi', 'Cha', 'Sagi', 'Toki', 'Seaweed', 'Uzumaki']"
 105,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -29126,7 +29126,7 @@
  Then…
  Shut up, Naruto! I have an obligation to protect this village.
  Next time: “Kiba's Long Day.”
-",Season 8 - Episode 183
+",Season 8 - Episode 183,"['Shadow', 'Mizura', 'Kiba', 'Naruto', 'Natsuhiboshi', 'Akamaru', 'Natsuhi', 'Sumaru', 'Rasengan', 'Hoshikage', 'Tsunade', 'Akahoshi', 'Hokuto', 'Hokage', 'Neji', 'Rogue', 'Yotaka', 'Shisou', 'Byakugan']"
 106,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -29422,7 +29422,7 @@
  I'm not gonna let him be so cool in front of Sakura!
  Next Episode:  ""Sasuke and Sakura: Friends or Foes?""
  Watch my outstanding performance!
-",Season 1 - Episode 02
+",Season 1 - Episode 02,"['Sakura', 'Mizuki', 'Hokage', 'Naruto', 'Chatora', 'Sasuke', 'Ebisu', 'Konohamaru', 'Grandpa', 'Grandson']"
 107,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -29659,7 +29659,7 @@
  Darn you! Darn you! Darn you!
  Because of your dream…!
  Next time:  ""The White Past: Hidden Ambition""
-",Season 1 - Episode 16
+",Season 1 - Episode 16,"['Kekkei', 'Sakura', 'K-Kakashi', 'Kakashi', 'Naruto', 'Sasuke', 'Haku', 'Zabuza']"
 108,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -30024,7 +30024,7 @@
  Hey, hey, hey! That bastard thief is mine!
  Enter Naruto Uzumaki!
  Next time:  ""The Bounty Hunter from the Wilderness""
-",Season 7 - Episode 158
+",Season 7 - Episode 158,"['Lee', 'Sakura', 'Moegi', 'Tsunade', 'Kakashi', 'Hokage', 'Naruto', 'Gosunkugi', 'Konohamaru', 'Iruka', 'Shikamaru', 'Rasengan', 'Udon']"
 109,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -30330,7 +30330,7 @@
  He’s a member of Uchiha clan.
  Is this the guy Sasuke was talking about?
  Next time: “Roar, Chidori! Brother vs. Brother!”
-",Season 4 - Episode 83
+",Season 4 - Episode 83,"['Orochimaru', 'Uchiha', 'Chidori', 'Oli', 'Pervy', 'Burn', 'Sakura', 'Toad', 'Naruto', 'Jiraiya', 'Sasuke', 'Ninja', 'Tsunade', 'Kakashi', 'Sannin', 'Ino', 'Sarutobi', 'Sharingan', 'Jutsu', 'Itachi']"
 110,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -30554,7 +30554,7 @@
  Anyway, you leave me no choice if you won’t listen.
  I’ll stop you with all my strength!
  Next time: “Memory of Flames”
-",Season 9 - Episode 210
+",Season 9 - Episode 210,"['Lee', 'Sakura', 'Ninja', 'Gantetsu', 'Naruto', 'Todoroki', 'Akio', 'Bushy', 'Rasengan']"
 111,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -30806,7 +30806,7 @@
  if she were to use the Ninja Art: Kujaku any further,
  there’s no guarantee she’ll live.
  Next time:  ""Reunion: The Remaining Time""
-",Season 7 - Episode 181
+",Season 7 - Episode 181,"['Granny', 'Mizura', 'Hotarubi', 'Hoshikage', 'Naruto', 'Natsuhiboshi', 'Neji', 'Hidden', 'Natsuhi', 'Kujaku', 'Akahoshi', 'Sumaru', 'Kunoichi', 'Shadow']"
 112,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -31159,7 +31159,7 @@
  Make sure you don’t forget to take this with you to the site.
  That is all.
  Next time: “Open for Business! 		The Leaf Moving Service.”
-",Season 8 - Episode 186
+",Season 8 - Episode 186,"['Ding', 'ponkan', 'Shino', 'Tobei', 'Naruto', 'Tsukiko', 'Shadow', 'Kagetsu', 'Ding-dong.', 'Kiyoyasu', 'Futa', 'Mai', 'ding-dong-ding', 'Ding-dong', 'Ding-dong-ding', '–Tsukiko?']"
 113,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -31412,7 +31412,7 @@
  – The next hit is the decisive blow! – The next hit is the decisive blow!
  Next episode: “The Ultimate Battle: Cha!”
  I cannot concede this battle, even if it’s the last thing I do!
-",Season 2 - Episode 41
+",Season 2 - Episode 41,"['Sakura', 'Chakra', 'Kakashi', 'Sasuke', 'Ino', 'Ami', 'Kunoichi', 'Kankuro']"
 114,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -31703,7 +31703,7 @@
  Excellent, Neji. You are a sharp one!
  Can we move on?
  Next time: “Hoshikage: The Buried Truth”
-",Season 7 - Episode 180
+",Season 7 - Episode 180,"['Lee', 'Mizura', 'Hotarubi', 'Chakra', 'Naruto', 'Neji', 'Natsuhiboshi', 'Tenten', 'Natsuhi', 'Kujaku', 'Akahoshi', 'Beast', 'Sumaru', 'Leaf', 'Shadow', 'Hokuto', 'Byakugan']"
 115,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -31936,7 +31936,7 @@
  That’s right! I have that secret weapon of mine!
  Next time: “Full Throttle Power! Choji Ablaze!”
  I’m the one who will defeat that guy!
-",Season 5 - Episode 112
+",Season 5 - Episode 112,"['Kiba', 'Naruto', 'Neji', 'Sasuke', 'Akamaru', 'Choji', 'Shikamaru', 'Fang', 'Tunneling', 'Shadow', 'Byakugan']"
 116,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -32189,7 +32189,7 @@
  Say, Sasuke, I feel you at a distance even though you're this close.
  No matter what, I can't see you, Sasuke.
  Next time:  ""Bitter Rivals and Broken Bonds""
-",Season 5 - Episode 107
+",Season 5 - Episode 107,"['Lee', 'Sakura', 'Sensei', 'Tsunade', 'Vulgar', 'Naruto', 'Chunin', 'Sasuke', 'Third', 'Ino', 'Neji', 'Hokage', 'Choji', 'Sarutobi', 'Jutsu', '-zu-ma-ki', 'Shikamaru', 'Asuma']"
 117,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -32546,7 +32546,7 @@
  You have no sense of emergency…
  Next time: ""Tsunade's Warning: Ninja No More!""
  What is that supposed to mean?!
-",Season 4 - Episode 97
+",Season 4 - Episode 97,"['Pervy', 'Burn', 'Senta', 'Jirocho', 'Boss', 'Tsunade', 'Kakashi', 'Naruto', 'Sasuke', 'Bunzo', 'Shizune', 'Tonton', 'Shugoro', 'Oli', 'Akagi']"
 118,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -32837,7 +32837,7 @@
  I'll thrash him with my new technique!
  I'm a fool to even attempt to explain.
  Next time:  ""Sound vs. Leaf""
-",Season 5 - Episode 110
+",Season 5 - Episode 110,"['Lee', 'Sakura', 'Ninja', 'Shino', 'Kiba', 'Hokage', 'Chunin', 'Naruto', 'Sasuke', 'Izumo', 'Kotetsu', 'Akamaru', 'Orochimaru', 'Jonin', 'Choji', 'Neji', 'Roger', 'Shikamaru']"
 119,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -33186,7 +33186,7 @@
  Well, this Old Man Genno sounds like he was pretty tricky…
  Wait, why are you here anyway?
  Next time: “The Anbu Gives Up? Naruto's Recollection”
-",Season 8 - Episode 197
+",Season 8 - Episode 197,"['Genno', 'Sakura', 'Shino', 'Tsunade', 'Kiba', 'Ichiraku', 'Naruto', 'Kakashi', 'Ino', 'Akamaru', 'Hinata', 'Choji', 'Shikamaru', 'Cricket']"
 120,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -33415,7 +33415,7 @@
  I could take your life for this!
  What…?!
  Next time: “Battle at Sea: The Power Unleashed!”
-",Season 7 - Episode 172
+",Season 7 - Episode 172,"['Amachi', 'Hitode', 'Chief', 'Naruto', 'Isarirbi', 'Sasuke', 'Anko', 'Orochimaru', 'Isaribi', 'Yoroi', 'Sea']"
 121,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -33611,7 +33611,7 @@
  But it's not enough. lt's way short of enough, Naruto!
  Strength…hatred…and desire!
  Next episode:  ""Brothers: Distance Among the Uchiha""
-",Season 5 - Episode 128
+",Season 5 - Episode 128,"['Sakura', 'Naruto', 'Neji', 'Sasuke', 'Akamaru', 'Bushy', 'Orochimaru', 'Choji', 'Iruka', 'Leaf']"
 122,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -33883,7 +33883,7 @@
  Hey, hey, hey, Gosunkugi!
  Give it up and submit to arrest!
  Next time: “Hunt or Be Hunted?! Showdown at the OK Temple”
-",Season 7 - Episode 159
+",Season 7 - Episode 159,"['Michizo', 'Asia', 'Shino', 'Kiba', 'Torpedo', 'Naruto', 'Tokichi', 'Akamaru', 'Gosunkugi', 'Hinata', 'Sazanami', 'Hidden', 'Shinobi']"
 123,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -34168,7 +34168,7 @@
  If things come to this,
  I’m gonna give the Old Lady Tsunade a piece of my mind!
  Next episode, “The Three Villains from the Maximum Security Prison”
-",Season 6 - Episode 141
+",Season 6 - Episode 141,"['Pervy', 'Sakura', 'Hanzaki', 'Tsunade', 'Kakashi', 'Naruto', 'Sasuke', 'Sasame', 'Orochimaru', 'Jigumo', 'Arashi']"
 124,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -34420,7 +34420,7 @@
  Are you really okay with that?
  I don't get it. I can never accept that!
  Next episode:  ""The Weapons Known as Shinobi.""
-",Season 1 - Episode 17
+",Season 1 - Episode 17,"['Kekkei', 'Kakashi', 'Naruto', 'Haku', 'Shinobi', 'Mizukage', 'Gato', 'Tazuna', 'Sharingan', 'Zabuza']"
 125,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -34705,7 +34705,7 @@
  I’ve got to get Sensei and the others to the hospital quick--!
  What’s this?!
  Next time: “Genjutsu or Reality?”
-",Season 8 - Episode 205
+",Season 8 - Episode 205,"['Sakura', 'Ninja', 'Sensei', 'Fang', 'Kiba', 'head', 'Naruto', 'Murakumo', '-zu-ma-ki', 'Jonin', 'Yakumo', 'Chunin', 'Kurenai', 'Yuhi', 'Unkai', 'K-Kurenai', 'Byakugan']"
 126,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -35073,7 +35073,7 @@
  Shut up and come with me, Naruto!
  We have to get that back at any cost!
  Next time: ""Please, Mr. Postman!""
-",Season 7 - Episode 176
+",Season 7 - Episode 176,"['Zigzag', 'Sakura', 'Agari', 'Kiba', 'Tsunade', 'Hokage', 'Naruto', 'Akamaru', 'Hinata', 'Orochimaru', 'Ayame', 'Fang', 'Byakugan']"
 127,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -35364,7 +35364,7 @@
  Hah! Just like Iruka Sensei says! Orochimaru’s Drug?
  I’ll crush that kind of nonsense, so be prepared!
  Next episode: “A Clash of Fate: You Can’t Bring Me Down!”
-",Season 6 - Episode 146
+",Season 6 - Episode 146,"['Mizuki', 'Tsunade', 'Naruto', 'Tsubaki', 'Raijin', 'Sasuke', 'Orochimaru', 'Iruka', 'Shikamaru', 'Fujin', 'Shadow', 'lt']"
 128,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -35732,7 +35732,7 @@
  We're going to meet with Boss Wasabi.
  A proper first greeting's important!
  Next time: ""Mission: Help an Old Friend in the Land of Tea!""
-",Season 4 - Episode 101
+",Season 4 - Episode 101,"['Burn', 'Sakura', 'K-Kakashi', 'Junko', 'Boss', 'Kakashi', 'Naruto', 'Sasuke', 'Ino', 'Shinobi', 'Buckteeth', 'Moya', 'Oli', 'Uzumaki']"
 129,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -35995,7 +35995,7 @@
  a sight in this village too frightening to even talk about…
  Next: “Laughing Shino.”
  I can’t even go to the bathroom alone at night.
-",Season 8 - Episode 185
+",Season 8 - Episode 185,"['Sakura', 'Shino', 'Tsunade', 'Ichiraku', 'Naruto', 'Jiraiya', 'Akamaru', 'zu-ma-ki!', 'Onbaa', 'Hinata', 'Onbu', 'Shadow', 'lt']"
 130,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -36358,7 +36358,7 @@
  We're gonna bring him back at all cost and make up the difference!
  Next time: ""The Race is On! Trouble on the High Seas!""
  Don't miss it!
-",Season 4 - Episode 102
+",Season 4 - Episode 102,"['Omasa', 'Shinobi', 'Wagarashi', 'Morino', 'Oli', 'Burn', 'Sakura', 'Boss', 'Idate', 'Naruto', 'Sasuke', 'Uzumaki', 'Ninja', 'Jirocho', 'Tsunade', 'Kakashi', 'ldate', 'Missus', 'Jelly', 'Fukusuke', 'Ryuko', 'Hokage', 'Aoi', 'Wasabi']"
 131,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -36606,7 +36606,7 @@
  I don't know if it's the ""Five Dances"" or what,
  but I'll take care of them all!
  Next time: ""To Each His Own Battle""
-",Season 5 - Episode 120
+",Season 5 - Episode 120,"['Sakon', 'Kekkei', 'Rashomon', 'Kimimaro', 'Tayuya', 'Kidomaru', 'Kiba', 'Jutsu', 'Naruto', 'Akamaru', 'Sasuke', 'Jirobo', 'Orochimaru', 'Fang', 'Ukon']"
 132,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -36848,7 +36848,7 @@
  This is so perfect for me, Naruto, the man who will eventually become a Hokage!
  All right, I’ll use this to instantly get closer to the title of Hokage, believe it!
  Next time: “Follow My Lead! The Great Survival Challenge!”
-",Season 7 - Episode 157
+",Season 7 - Episode 157,"['Lee', 'Raiga', 'Kisame', 'Tsunade', 'Ranmaru', 'Naruto', 'Neji', 'Tenten', 'Sansho', 'Karashi', 'Guy']"
 133,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -37114,7 +37114,7 @@
  Run, run, run, run!
  Next time, ""The Final Rounds: Rush to the Battle Arena!""
  I can't trust your ""ace"" route at all!
-",Season 3 - Episode 58
+",Season 3 - Episode 58,"['Lee', 'Choji', 'Chen', 'Pervy', 'Popo', 'Naruto', 'Sasuke', 'Konohamaru', 'Tyson', 'Sanchez', 'Ino', 'Kazekage', 'Bushy', 'Peking', 'Iruka', 'Bodimahattaya-san', 'Gaara', 'Billboard', 'Ole', 'Shikamaru']"
 134,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -37407,7 +37407,7 @@
  I must impress them and
  show that I’m not in the same class as any ordinary blockhead!
  Next episode: ""Surviving the Cut! The Rookie Nine Together Again!
-",Season 2 - Episode 36
+",Season 2 - Episode 36,"['Lee', 'Sakura', 'Dawn', 'Kabuto', 'Genjutsu', 'Kiba', 'Naruto', 'Sasuke', 'Mubi', 'Orochimaru', 'Hinata', 'Shikamaru']"
 135,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -37593,7 +37593,7 @@
  Sasuke hasn't arrived here yet.
  What's up with that kid, making Sakura worry so much?
  Nex time, ""Hit it or Quit it: The Final Rounds Get Complicated!""
-",Season 3 - Episode 62
+",Season 3 - Episode 62,"['Sakura', 'Ole', 'Sanchez', 'Proctor', 'Popo', 'Naruto', 'Neji', 'Sasuke', 'Hinata', 'Bodimahattaya-san', 'Peking', 'Chen', 'Shadow', 'Tyson', 'Hyuga']"
 136,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -37868,7 +37868,7 @@
  Huh?! What’s this feeling?
  Next episode: ""Battle Formation: lno-Shika-Cho!""
  What in the world is going on?!
-",Season 2 - Episode 32
+",Season 2 - Episode 32,"['Lee', 'Sakura', 'Billboard', 'Naruto', 'Ino', 'Sasuke', 'Tazuna', 'Brow', 'Zaku']"
 137,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -38183,7 +38183,7 @@
  I need to concentrate my Chakra and remember that training!
  I have no choice but to do it now! That is the best I can do right now!
  Next time: “Blaze Away, Byakugan! This is My Ninja Way!!”
-",Season 6 - Episode 150
+",Season 6 - Episode 150,"['Kamizuru', 'Beeswax', 'Shino', 'Kiba', 'Byakugan', 'Naruto', 'Jutsu', 'Sasuke', 'Akamaru', 'Grandfather', 'Hinata', 'Suzumebachi', 'Chunin', 'Fang', 'Bikochu', 'Jibachi']"
 138,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -38435,7 +38435,7 @@
  Roger!
  I’ll get that star back, no matter what.
  Next: “The Remembered Lullaby”
-",Season 7 - Episode 178
+",Season 7 - Episode 178,"['Mizura', 'Hoshikage', 'Omaru', 'Tsunade', 'Neji', 'Naruto', 'Shinobi', 'Orochimaru', 'Roger', 'Akahoshi', 'Shizune', 'Beast', 'Kunai', 'Sumaru', 'Hokuto']"
 139,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -38812,7 +38812,7 @@
  I'll teach you that it's a million years too soon to be doing that.
  Next episode:  ""Chunin Challenge: Rock Lee vs. Sasuke!""
  As for me, I'm going to kick butt once again!
-",Season 1 - Episode 21
+",Season 1 - Episode 21,"['Choji', 'Asuma', 'Guy', 'Sakura', 'Moegi', 'Kiba', 'Naruto', 'Chunin', 'Sasuke', 'Hinata', 'Konohamaru', 'Genin', 'Shino', 'Kakashi', 'Ino', 'Genins', 'Rock', 'Iruka', 'Kurenai', 'Gaara', 'Hokage', 'Shikamaru']"
 140,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -39118,7 +39118,7 @@
  A monster, a monster!
  This wouldn’t be a mission!
  Next time: “Ino Screams! Chubby Paradise!”
-",Season 8 - Episode 191
+",Season 8 - Episode 191,"['Kikunojou', 'Janin', 'Tsunade', 'Naruto', 'Jutsu', 'Yurinojou', 'Hinata', 'Choji', 'Chubby', 'Haruna', 'Shizune', 'Shikamaru', 'Shadow', 'by']"
 141,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -39405,7 +39405,7 @@
  Stop the antics already!
  Why, why's this happening?!
  Next time: ""The Battle Begins: Naruto vs. Sasuke""
-",Season 5 - Episode 106
+",Season 5 - Episode 106,"['Sakura', 'Fukusuke', 'Jirocho', 'Boss', 'Kyuroku', 'Idate', 'Naruto', 'Sasuke', 'Wagarashi', 'Big', 'Rasengan', 'Buddha']"
 142,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -39710,7 +39710,7 @@
  I won't run away, no matter what!
  If my techniques aren't going to work, I'll just have to keep trying!
  Next time: ""The Last Leg: A Final Act of Desperation""
-",Season 5 - Episode 105
+",Season 5 - Episode 105,"['Sakura', 'Fukusuke', 'Boss', 'Idate', 'Naruto', 'Sasuke', 'Big', 'lbiki', 'rabbit', 'Rasengan', 'Humph', 'Aoi', 'Chidori', 'Ibiki']"
 143,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -39929,7 +39929,7 @@
  This is his fight…
  This represents everything that he has been carrying up to now.
  Next time: “Hate Among the Uchihas: The Last of the Clan!”
-",Season 4 - Episode 84
+",Season 4 - Episode 84,"['Uchiha', 'Burn', 'Summo', 'Brother', 'Naruto', 'Chunin', 'Sasuke', 'Jiraiya', 'Chidori', 'Mangekyo', 'Sharingan', 'Oli', 'Itachi']"
 144,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -40159,7 +40159,7 @@
  But you will be his keeper, and will be held accountable for all his actions.
  That’s all.
  Next time: “Vanished Memories”
-",Season 9 - Episode 212
+",Season 9 - Episode 212,"['Monju', 'Sakura', 'Lee', 'Gantetsu', 'Naruto', 'Todoroki', 'Akio', 'Shura', 'Bushy-Brows', 'Rasengan']"
 145,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -40406,7 +40406,7 @@
  I’ll stop you here, even if it costs my life!
  Next episode: “Kakashi and Orochimaru: Face-to-Face!”
  Well, it’s sink or swim.
-",Season 2 - Episode 39
+",Season 2 - Episode 39,"['Lee', 'Sakura', 'Shino', 'Kakashi', 'Neji', 'Naruto', 'Sasuke', 'Abumi', 'Orochimaru', 'Guy', 'Zaku', 'Yoroi']"
 146,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -40620,7 +40620,7 @@
  I’m taking you back to the village even if I have to drag you there!
  Sasuke! You’re my…
  Next episode: “A Plea From a Friend""
-",Season 6 - Episode 132
+",Season 6 - Episode 132,"['Lee', 'Sakura', 'Kakashi', 'Naruto', 'Jutsu', 'Sasuke', 'Orochimaru', 'Rasengan', 'Chidori']"
 147,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -40972,7 +40972,7 @@
  and to catch the intruder.
  Unlike you, we don't trust Menma just yet.
  Next time: ""Bringing Back Reality""
-",Season 9 - Episode 213
+",Season 9 - Episode 213,"['Dozaemon', 'Sakura', 'Tsunade', 'Naruto', 'Jutsu', 'Fuki', 'Menma', 'Ocarina']"
 148,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -41197,7 +41197,7 @@
  I don't know who they are,
  but I'm gonna find them and kick their butts!
  Next time: ""Kidnapped! Naruto's Hot Spring Adventure!""
-",Season 4 - Episode 96
+",Season 4 - Episode 96,"['Pervy', 'Burn', 'Tsunade', 'Nawaki', 'Hokage', 'Naruto', 'Jiraiya', 'Sannin', 'Katsuyu', 'Manda', 'Grandfather', 'Orochimaru', 'Dan', 'Shizune', 'Humph', 'Oli', 'Gamatatsu']"
 149,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -41489,7 +41489,7 @@
  How's that?!
  Next time, ""The Summoning Jutsu: Wisdom of the Toad Sage!""
  What is this?!
-",Season 3 - Episode 53
+",Season 3 - Episode 53,"['Pervy', 'Ole', 'Sanchez', 'Popo', 'Hokage', 'Jiraiya', 'Ebisu', 'Orochimaru', 'Bodimahattaya-san', 'Peking', 'Chen', 'Tyson']"
 150,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -41784,7 +41784,7 @@
  for my lack of concentration.
  Oh…I would've listened to him better if I knew this would happen.
  Next time: ""Focal Point: The Mark of the Leaf""
-",Season 4 - Episode 87
+",Season 4 - Episode 87,"['Pervy', 'Burn', 'Ninja', 'Jutsu', 'Jiraiya', 'Naruto', 'Iruka', 'Oli', 'Shu']"
 151,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -42083,7 +42083,7 @@
  when he's being routed like this?!
  Next episode: ""Lee’s Hidden Strength: Forbidden Secret Jutsu!""
  The expression in Bushy-Brows’ eyes has changed!
-",Season 2 - Episode 48
+",Season 2 - Episode 48,"['Lee', 'Desert', 'Injure', 'Naruto', 'Neji', 'Sasuke', 'Kankuro', 'Jutsu', 'Hinata', 'Bushy', 'Choji', 'Rock', 'Lotus', 'Bushy-Brows', 'Guy', 'Gaara', 'Sand']"
 152,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -42397,7 +42397,7 @@
  All I want is the answer to that.
  I won't let this thing swallow me up in a place like this!
  Next episode: ""Bushy-Brow's Jealousy -- Lions Barrage Unleashed!""
-",Season 2 - Episode 38
+",Season 2 - Episode 38,"['Sakura', 'Kabuto', 'Chakra', 'Kakashi', 'Hokage', 'Naruto', 'Chunin', 'Sasuke', 'Orochimaru', 'Hayate', 'Sensei', 'Yoroi', 'Gaara']"
 153,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -42662,7 +42662,7 @@
  What’s wrong, Sakura?
  I can’t find the prisoner, Gantetsu, Captain Todoroki, and Naruto.
  Next time: “The Bewildering Forest”
-",Season 9 - Episode 209
+",Season 9 - Episode 209,"['Lee', 'Sakura', 'Gantetsu', 'Ninja', 'Gon', 'Tsunade', 'Naruto', 'Todoroki', 'Akio', 'Bushy', 'Shura', 'Rock', 'Roger', 'na', 'Gantesu', 'Tsuzumi']"
 154,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -42931,7 +42931,7 @@
  he will just destroy everything.
  All we can do is just stand here and watch?!
  Next time: “Departure”
-",Season 9 - Episode 219
+",Season 9 - Episode 219,"['Lee', 'Sakura', 'Seimei', 'Hoko', 'Shukaku', 'Infinite', 'Naruto', 'Neji', 'Hinata', 'Gaara', 'Shikamaru', 'Fang', 'Leaf', 'Matsuri', 'Byakugan']"
 155,"To think the Leaf’s reinforcements will be you of all people!
  A man should always repay the debt he owes a woman.
  Always the bothersome guy with the man and woman stuff!
@@ -43204,7 +43204,7 @@
  Exactly. You head over to where they are immediately.
  Yes, ma’am.
  Next time: “The Ultimate Weapon Reborn”
-",Season 9 - Episode 218
+",Season 9 - Episode 218,"['Lee', 'Sakura', 'Chakra', 'Fang', 'Jutsu', 'Naruto', 'Akamaru', 'Kankuro', 'Sasuke', 'Ino', 'Bushy', 'Choji', 'Iron', 'Shikamaru', 'Crow', 'Tunneling', 'Matsuri', 'Gaara']"
 156,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -43466,7 +43466,7 @@
  I won't run away! I won't give up!
  Just watch. This is my Way of Ninja!
  Next time:  ""Attack! Fury of the Rasengan!""
-",Season 4 - Episode 93
+",Season 4 - Episode 93,"['Burn', 'Kabuto', 'Tsunade', 'Nawaki', 'Sannin', 'Jiraiya', 'Naruto', 'Sasuke', 'Grandfather', 'Orochimaru', 'Dan', 'Shizune', 'Oli']"
 157,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -43770,7 +43770,7 @@
  You were far more admirable back then, Karashi.
  But…
  Next time: “A Lesson Learned! The Iron Fist of Love!”
-",Season 6 - Episode 152
+",Season 6 - Episode 152,"['Lee', 'Kurosuki', 'Karashi', 'Guy', 'Pervy', 'Sakura', 'Kisame', 'Rokusuke', 'Ichiraku', 'Naruto', 'Sasuke', 'Chichiyasu', 'Tenten', 'Genin', 'Tsunade', 'Kakashi', 'Bushy', 'Raiga', 'Kanpachi', 'Neji', 'Sansho', 'Zabuza', 'Itachi']"
 158,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -44031,7 +44031,7 @@
  Hey, what’s this?!
  Isn’t this just a D-rank mission with babysitting?
  Next time: “Impossible! Celebrity Ninja Art: Money Style Jutsu!”
-",Season 7 - Episode 173
+",Season 7 - Episode 173,"['Amachi', 'Chief', 'Tsunade', 'Naruto', 'Jutsu', 'Anko', 'Orochimaru', 'Isaribi', 'Sensei', 'lsaribi', 'Yoroi', 'Toad', 'lt']"
 159,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -44357,7 +44357,7 @@
  An impressive-looking guy with a huge Katana has come.
  Next episode:  ""The Assassin of the Mist!""
  I'm going to kick butt once again!
-",Season 1 - Episode 06
+",Season 1 - Episode 06,"['Sakura', 'squirt', 'Kage', 'Ninjas', 'K-Kakashi', 'Kakashi', 'Hokage', 'Tora', 'Naruto', 'Sasuke', 'Shijimi', 'Tazuna', 'Daimyo', 'Katana', 'Chunin']"
 160,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -44660,7 +44660,7 @@
  We have a company.
  It seems someone is after us.
  Next episode: “Orochimaru’s Shadow!”
-",Season 6 - Episode 145
+",Season 6 - Episode 145,"['Mizuki', 'Tsunade', 'lno-Shika-Cho', 'Ino-Shika-Cho', 'Naruto', 'Ino', 'Raijin', 'Choji', 'lruka', 'Iruka', 'Shikamaru', 'Fujin']"
 161,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -44898,7 +44898,7 @@
  Even if they aren’t related to me, they are my precious family.
  I won’t let you have your way with my family!
  Next time: “Forbidden Secret Technique: Reaper Death Seal!”
-",Season 3 - Episode 72
+",Season 3 - Episode 72,"['Hitsuji', 'Ne', 'Orochimaru', 'Chidori', 'Sakura', 'Sasuke', 'Sensei', 'Humph', 'Mi', 'Sarutobi', 'Gaara', 'Temari', 'Hokage', 'Jutsu', 'Uma', 'Orochi', 'Inu', 'Leaf', 'Tori', 'Kankuro']"
 162,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -45177,7 +45177,7 @@
  I will finish this with my next hit.
  This will be, absolutely and totally, the last one!
  Next time: “Beyond the Limit of Darkness and Light”
-",Season 3 - Episode 78
+",Season 3 - Episode 78,"['Burn', 'Sakura', 'Chief', 'Hitsuji', 'Shukaku', 'Kakashi', 'Naruto', 'Sasuke', '2K', 'Inu', 'Saru', 'Gamakichi', 'Tori', 'Oli', 'Gaara', 'Pop']"
 163,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -45423,7 +45423,7 @@
  You! Why are you here…?!
  Next time: “The Leaf’s Handsome Devil!”
  I sense the approach of a storm!
-",Season 5 - Episode 122
+",Season 5 - Episode 122,"['Bastard', 'Akamaru', 'Shikamaru']"
 164,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -45708,7 +45708,7 @@
  I realized that all I had to do was try my best.
  But now…
  Next time: ""Sensei and Student: The Bond of the Shinobi""
-",Season 4 - Episode 99
+",Season 4 - Episode 99,"['Lee', 'Burn', 'Sakura', 'Tsunade', 'Hokage', 'Naruto', 'Sasuke', 'Bushy', 'Konohamaru', 'Shizune', 'Iruka', 'Tonton', 'Kurenai', 'Oli']"
 165,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -45995,7 +45995,7 @@
  – unmask him at once! – unmask him at once!
  Next time: ""Gotta See! Gotta Know! Kakashi Sensei's True Face!""
  'Cuz we're really curious!
-",Season 4 - Episode 100
+",Season 4 - Episode 100,"['Lee', 'Burn', 'Guy', 'Ninja', 'Tsunade', 'Kakashi', 'Neji', 'Naruto', 'Konohamaru', 'Roger', 'Iruka', 'Sensei', 'Genin', 'Oli', 'G-Guy']"
 166,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -46282,7 +46282,7 @@
  Someday I'll be… Hey, are you listening?!
  Next episode: ""A Dangerous Mission! Journey to the Land of Waves!""
  Don't miss me kick butt!
-",Season 1 - Episode 05
+",Season 1 - Episode 05,"['Sakura', 'Ninja', 'Kakashi', 'Naruto', 'Sasuke', 'Tiger', 'Shinobi', 'Iruka', 'Sensei']"
 167,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -46555,7 +46555,7 @@
  By defeating this guy, I'll prove that!
  Next time,  ""Byakugan vs. Shadow Clone""
  Quit gabbing and let's get started!
-",Season 3 - Episode 59
+",Season 3 - Episode 59,"['Chen', 'Shadow', 'Popo', 'Naruto', 'Sasuke', 'Hinata', 'Konohamaru', 'Tyson', 'Bull', 'Ninja', 'Sanchez', 'Shino', 'Destiny', 'Peking', 'Dosu', 'Bodimahattaya-san', 'Ole', 'Neji', 'Byakugan']"
 168,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -46825,7 +46825,7 @@
  Now that I, Naruto Uzumaki, is here, I'll wipe the floor with you!
  Next episode: ""Naruto's Counterattack: Never Give In!""
  Look forward to my kicking butt!
-",Season 2 - Episode 28
+",Season 2 - Episode 28,"['Lee', 'Sakura', 'Ninja', 'Kakashi', 'Naruto', 'Sasuke', 'Hinata', 'Iruka', 'Zabuza']"
 169,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -47069,7 +47069,7 @@
  If things come to this, I'll chase him down to the end of the world.
  I'll drag that guy back even if I have to grab him by his neck!
  Next time:  ""Formation! The Sasuke Retrieval Squad!""
-",Season 5 - Episode 109
+",Season 5 - Episode 109,"['Pervy', 'An', 'Sakura', 'Ninja', 'Kimimaro', 'Kakashi', 'Naruto', 'Sasuke', 'Orochimaru', 'Genin', 'Itachi', 'Gaara']"
 170,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -47306,7 +47306,7 @@
  What the heck is going on here?!
  Next episode: ""The Number One Hyperactive 		 Knucklehead Ninja Joins the Fight!""
  As for me, will I be able to kick butt once again?
-",Season 1 - Episode 13
+",Season 1 - Episode 13,"['Sakura', 'Ninja', 'Kakashi', 'Naruto', 'Jutsu', 'Sasuke', 'Haku', 'Tazuna', 'Inari', 'Zabuza']"
 171,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -47597,7 +47597,7 @@
  I am doing it right!
  It’s impossible, but my Byakugan is picking up Chakra!
  Next time: “The Enemy of the Byakugan”
-",Season 6 - Episode 153
+",Season 6 - Episode 153,"['Lee', 'Raiga', 'Rokusuke', 'Kurosuki', 'Ranmaru', 'Naruto', 'Neji', 'Tenten', 'Rock', 'Sansho', 'Karashi', 'Guy', 'Byakugan']"
 172,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -47933,7 +47933,7 @@
  Everyone, get to it at once!
  – Yeah! 					– Yes.
  Next time: “The Powerful Helper”
-",Season 8 - Episode 199
+",Season 8 - Episode 199,"['Lee', 'Genno', 'Tsunade', 'Naruto', 'Neji', 'Akamaru', 'Bushy', 'Hinata', 'Choji', 'lruka', 'Shikamaru', 'Cricket', 'Byakugan']"
 173,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -48234,7 +48234,7 @@
  It doesn't matter if it's your Genjutsu or whatever.
  I'll kick all their butts!
  Next episode: ""Clone vs. Clone: Mine are Better than Yours!""
-",Season 2 - Episode 35
+",Season 2 - Episode 35,"['Sakura', 'Kabuto', 'Proctor', 'Naruto', 'Sasuke', 'Orochimaru']"
 174,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -48491,7 +48491,7 @@
  Stop, I won't let you get away!
  Next time:  ""Identify Yourself: Powerful New Rivals""
  As for me, I'm gonna kick butt again!
-",Season 1 - Episode 20
+",Season 1 - Episode 20,"['Sakura', 'Ninja', 'Crow', 'Moegi', 'Kakashi', 'Naruto', 'Sasuke', 'Konohamaru', 'NARUTO', 'Sensei', 'Iruka', 'Kankuro']"
 175,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -48845,7 +48845,7 @@
  Not that, I mean I’ll…
  – Oh, that. 					– Oh, that.
  Next time: “Run, Dodge, Zigzag! Chase or be Chased!”
-",Season 7 - Episode 175
+",Season 7 - Episode 175,"['Zigzag', 'Shino', 'Tsunade', 'Kiba', 'Hokage', 'Naruto', 'Agari', 'Sasuke', 'Akamaru', 'Ichiraku', 'Hinata', 'Shinobi', 'Iruka', 'Kurenai', 'Rasengan']"
 176,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -49218,7 +49218,7 @@
  You’ll all start over again from the Academy!
  What?!
  Next time: ""The Treasure Hunt is On!""
-",Season 7 - Episode 174
+",Season 7 - Episode 174,"['Ninja', 'Kunihisa', 'Tsunade', 'Naruto', 'Papa', 'Darudo', 'Kunijiro', 'Kuni', 'Big', 'Genin', 'Kunai']"
 177,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -49440,7 +49440,7 @@
  I don’t know…
  I don’t know, but I just don’t want to lose to this guy!
  Next time: “Light vs. Dark: The Two Faces of Gaara”
-",Season 3 - Episode 76
+",Season 3 - Episode 76,"['Yashamaru', 'Kakashi', 'Naruto', 'Kazekage', 'Sasuke', 'Gaara', 'Itachi']"
 178,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -49779,7 +49779,7 @@
  Boss Jirocho believes in you.
  If you have time to stall and act cool, why don't you show some guts?!
  Next time: ""Run Idate Run! Nagi Island Awaits!
-",Season 4 - Episode 103
+",Season 4 - Episode 103,"['Tiger', 'Wagarashi', 'Morino', 'Oli', 'Ibiki', 'Burn', 'Sakura', 'Boss', 'Idate', 'Naruto', 'Sasuke', 'North', 'Kagari', 'Ninja', 'Jirocho', 'ldate', 'I-Ibiki', 'Fukusuke', 'Genjutsu', 'Bastard', 'Aoi', 'Wasabi']"
 179,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -50059,7 +50059,7 @@
  Where I can use my Way of the Ninja and my soul like…you know?
  Next time: ""A New Chapter Begins: 		The Chunin Exam!""
  This is my Way of Ninja!
-",Season 1 - Episode 19
+",Season 1 - Episode 19,"['Sakura', 'Zabuza', 'Ninja', 'Kakashi', 'Naruto', 'Sasuke', 'Haku', 'Shinobi', 'Tazuna', 'Konohamaru', 'Iruka', 'Inari', 'Gatô']"
 180,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -50391,7 +50391,7 @@
  Next Time: ""The Top 5 Ninja Battles!""
  There are also fun extras!
  Tune in!
-",Season 8 - Episode 201
+",Season 8 - Episode 201,"['Genno', 'Kiba', 'Might', 'Naruto', 'Jutsu', 'Akamaru', 'Ino', 'Ichiraku', 'Hinata', 'Orochimaru', 'Choji', 'Cricket', 'Shikamaru', 'Fang', 'Leaf', 'Rasengan', 'Guy', 'Byakugan']"
 181,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -50602,7 +50602,7 @@
  Listen, Naruto…
  Next time:  ""An Invitation from the Sound""
  I feel uneasy…
-",Season 5 - Episode 108
+",Season 5 - Episode 108,"['Sakon', 'Sakura', 'Akatsuki', 'Tayuya', 'Kidomaru', 'Kakashi', 'Naruto', 'Jutsu', 'Sasuke', 'Orochimaru', 'Jirobo', 'Rasengan', 'Chidori', 'Itachi']"
 182,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -50871,7 +50871,7 @@
  Even if you are experts in Genjutsu,
  I will protect this child with every ounce of strength I have in my body.
  Next time: “Kurenai's Top-Secret Mission: The Promise with the Third Hokage”
-",Season 8 - Episode 204
+",Season 8 - Episode 204,"['Sakura', 'Genjutsu', 'Shino', 'Kiba', 'Tsunade', 'Naruto', 'Murakumo', 'Akamaru', 'Hinata', 'Yakumo', 'Secret', 'Kurenai']"
 183,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -51039,7 +51039,7 @@
  But my naiveté created this situation.
  I will bury you now and correct my old mistake.
  Next time, “A Mistake from the Past: A Face Revealed!”
-",Season 3 - Episode 71
+",Season 3 - Episode 71,"['Temari', 'Monkey', 'Enma', 'Hokage', 'Sasuke', 'Orochimaru', 'Sarutobi', 'Konohamaru', 'Sensei', 'First']"
 184,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -51344,7 +51344,7 @@
  Yes… I’m sorry but…
  Then he's considerably… considerably…?!
  Next time: “The Third Super-Beast!”
-",Season 8 - Episode 194
+",Season 8 - Episode 194,"['Kiba', 'Tsunade', 'Gentle', 'Naruto', 'Milady', 'Akamaru', 'Cricket', 'Kayo', 'Hinata', 'Bushy', 'Grandma', 'Shizune', 'Fang', 'Rasengan', 'Gosa', 'Byakugan']"
 185,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -51645,7 +51645,7 @@
  Next episode: ""Sakura Blossoms!""
  Please watch my battle...
  
-",Season 2 - Episode 31
+",Season 2 - Episode 31,"['Lee', 'Sakura', 'Hokage', 'Naruto', 'Neji', 'Sasuke', 'Orochimaru', 'Roger', 'Gu', 'Kunai', 'Zaku']"
 186,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -51801,7 +51801,7 @@
  that I won’t go back on my word.
  That’s my Way of Ninja!
  Next episode: “The Promise That Could Not Be Kept”
-",Season 6 - Episode 134
+",Season 6 - Episode 134,"['Sakura', 'Naruto', 'Jutsu', 'Sasuke', 'Mangekyo', 'Rasengan', 'Chidori']"
 187,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -52113,7 +52113,7 @@
  Sakura! Get a hold of Naruto!
  Next episode: “The Scroll’s Secret: No Peeking Allowed”
  I really want to look!
-",Season 2 - Episode 34
+",Season 2 - Episode 34,"['Lee', 'Sakura', 'Bushy-Brow', 'Shino', 'Kiba', 'Byakugan', 'Naruto', 'Akamaru', 'Sasuke', 'Tenten', 'Hinata', 'Genin', 'Uchiha', 'Gaara']"
 188,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -52472,7 +52472,7 @@
  Yurinojou!
  Anyway, we just have to run with all our might for now!
  Next time: “A Limitless Supply of Ninja Tools”
-",Season 8 - Episode 188
+",Season 8 - Episode 188,"['Kikunojou', 'Janin', 'Shun', 'Yurinoshin', 'Naruto', 'Jutsu', 'Yurinojou', 'Hinata', 'Choji', 'Haruna', 'Kikusuke', 'Shadow', 'Ramen']"
 189,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -52689,7 +52689,7 @@
  that Kakashi Sensei and the others are in danger too?!
  Next episode:  ""Haku's Secret Jutsu: Crystal Ice Mirrors""
  I'm going to kick butt once again!
-",Season 1 - Episode 12
+",Season 1 - Episode 12,"['Sakura', 'Kakashi', 'Hokage', 'Naruto', 'Sasuke', 'Haku', 'Tazuna', 'Gato', 'Iruka', 'Inari', 'Zabuza', 'Uzumaki']"
 190,"So this is the Shukaku?
  It’s the first time I’ve seen the real thing…
  It’s dangerous here! We have to get away!
@@ -52970,7 +52970,7 @@
  In order to take back what he lost,
  the boy once again throws himself into the maelstrom of cruel fate…
  Next time: “Homecoming”
-",Season 9 - Episode 220
+",Season 9 - Episode 220,"['Lee', 'Seimei', 'Chakra', 'Orochimaru', 'Pervy', 'Sakura', 'Akatsuki', 'Sage', 'Naruto', 'Jiraiya', 'Akamaru', 'Hinata', 'Shukaku', 'Tsunade', 'Ino', 'Iruka', 'Matsuri', 'Gaara', 'Neji', 'Shikamaru']"
 191,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -53316,7 +53316,7 @@
  Naruto, Sensei is…
  Kurenai Sensei is going to quit!
  Next time: ""Kurenai's Decision: Squad 8 Left Behind”
-",Season 8 - Episode 202
+",Season 8 - Episode 202,"['Sakon', 'Orochimaru', 'Choji', 'Wolf', 'GAI', 'Pervy', 'Sakura', 'Kiba', 'Naruto', 'Jiraiya', 'Sasuke', 'Akamaru', 'Hinata', 'Sensei', 'Rasengan', 'CHOJI', 'Shino', 'Bushy', '~FATSO', 'Kurenai', 'FATSO~', 'Neji', 'Jutsu', 'JIROBO', 'KAKASHI', 'ZABUSA', 'Cricket']"
 192,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -53596,7 +53596,7 @@
  So all we can do is watch here?
  Does this mean that all we can do is believe in him and wait?
  Next time:  ""The Supposed Sealed Ability""
-",Season 8 - Episode 206
+",Season 8 - Episode 206,"['Guy', 'Sakura', 'Old', 'Satomi', 'Kiba', 'Naruto', 'Akamaru', 'Hinata', 'Grandma', 'Yakumo', 'Kurenai', 'Leaf', 'Yuhi', 'by', 'Byakugan']"
 193,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -53902,7 +53902,7 @@
  No? What? You came here for a mission?!
  Next episode: ""Special Report: 		Live from the Forest of Death!""
  As for me, I'm going to kick-butt again!
-",Season 1 - Episode 25
+",Season 1 - Episode 25,"['Sakura', 'Hokage', 'Naruto', 'Sasuke', 'Anko', 'Hinata', 'Jonin', 'Konohamaru', 'Crow', 'Gennai', 'Ibiki', 'Kankuro', 'Kurenai']"
 194,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -54199,7 +54199,7 @@
  If you don’t really put your whole heart into it, things will get hairy for you.
  Next episode: “Killer Kunoichi and a Shaky Shikamaru”
  This is really, seriously bad!
-",Season 2 - Episode 42
+",Season 2 - Episode 42,"['Sign', 'Sakura', 'Temari', 'Chakra', 'Naruto', 'Ino', 'Sasuke', 'Tenten', 'Hayate', 'Shikamaru']"
 195,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -54471,7 +54471,7 @@
  Just keep watching Mr. Naruto’s stellar performance!
  Next time: “Village in Distress: A New A-Ranked Mission!”
  Let’s go! Let’s go! Let’s go!
-",Season 3 - Episode 68
+",Season 3 - Episode 68,"['Sakura', 'Raido', 'Sensei', 'Hokage', 'Naruto', 'Neji', 'Kazekage', 'Sasuke', 'Orochimaru', 'Sarutobi', 'Shikamaru', 'Chunin', 'Anbu', 'Gaara', 'Sand']"
 196,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -54744,7 +54744,7 @@
  Show that guy that people can really change!
  Next episode: “Byakugan Battle: Hinata Grows Bold!”
  Go! Fight! Hinata!
-",Season 2 - Episode 45
+",Season 2 - Episode 45,"['Lion', 'Kiba', 'Hokage', 'Naruto', 'Akamaru', 'Sasuke', 'Hinata', 'Fang']"
 197,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -55043,7 +55043,7 @@
  Sorry Sakura, I have to ask Kurenai Sensei about Yakumo!
  Oh, hey wait! Naruto!
  Next time: “Yakumo's Sealed Power”
-",Season 8 - Episode 203
+",Season 8 - Episode 203,"['Lee', 'Sakura', 'Kurama', 'Shino', 'Kiba', 'Tsunade', 'Hokage', 'Naruto', 'Murakumo', 'Hinata', 'Jonin', 'Shinobi', 'Rock', 'Shizune', 'Yakumo', 'Sensei', 'Kurenai', 'Guy']"
 198,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -55321,7 +55321,7 @@
  No arguments! Neji, Tenten, Lee, Naruto!
  The four of you, I’m delivering your new mission.
  Next episode: “Funeral March for the Living”
-",Season 6 - Episode 151
+",Season 6 - Episode 151,"['Lee', 'Sakura', 'Kiba', 'Aburame', 'Naruto', 'Neji', 'Jutsu', 'Sasuke', 'Jibachi', 'Hinata', 'Tenten', 'Rasengan', 'Byakugan']"
 199,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -55565,7 +55565,7 @@
  But this…
  I’m sorry, Naruto. He’s my miscalculation.
  Next episode: “Miscalculation: A New Enemy Appears!”
-",Season 5 - Episode 118
+",Season 5 - Episode 118,"['Sakon', 'Kabuto', 'Kimimaro', 'Tayuya', 'Kidomaru', 'Kiba', 'Neji', 'Naruto', 'Akamaru', 'Sasuke', 'Jirobo', 'Orochimaru', 'Mark', 'Shikamaru', 'Tunneling', 'Rasengan', 'Byakugan']"
 200,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -55765,7 +55765,7 @@
  I’ve had enough. I can’t dodge it anyway.
  Since the secret of my eyes has been discovered, I won’t run or hide!
  Next episode: “Losing is Not an Option!”
-",Season 5 - Episode 116
+",Season 5 - Episode 116,"['Lee', 'Sixty', 'Naruto', 'Neji', 'Jutsu', 'Hinata', 'Jirobo']"
 201,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -55959,7 +55959,7 @@
  But, what’s this?! The world is oddly…
  f-floating, and I’ve no inclination of losing!
  Next episode: “The Beast Within.”
-",Season 5 - Episode 123
+",Season 5 - Episode 123,"['Lee', 'Sakura', 'Genma', 'Raido', 'Tsunade', 'Jutsu', 'Naruto', 'Akamaru', 'Sasuke', 'Bushy', 'Chunin', 'Orochimaru', 'Jonin', 'Rock', 'Fifth', 'B-Bushy', 'Guy']"
 202,"Press down hard on the gas
  That’s right, there’s no compromise
  We'll slip through the night
@@ -56257,7 +56257,7 @@
  I’ll give it back all at once!
  Next episode: “Surprise Attack! Naruto’s Secret Weapon!""
  This is the trick I’ve been saving up!
-",Season 2 - Episode 44
+",Season 2 - Episode 44,"['Ninja', 'Proctor', 'Kiba', 'Kakashi', 'Hokage', 'Naruto', 'Akamaru', 'Sasuke', 'Jonin', 'Beast', 'Fang']"
 203,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -56516,7 +56516,7 @@
  Wait up, Sasuke!
  Next time: “An Unrivaled Match: Hokage Battle Royale!”
  What the heck’s happening to the village?!
-",Season 3 - Episode 70
+",Season 3 - Episode 70,"['Kakashi', 'Naruto', 'Sasuke', 'Orochimaru', 'Jonin', 'Shikamaru', 'Chunin', 'Kunoichi', 'Kankuro']"
 204,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -56853,7 +56853,7 @@
  Huh? Is this for real?!
  Next episode: ""Start Your Engines: The Chunin Exam Begins!""
  As for me,  I'm going to kick butt once again!
-",Season 1 - Episode 23
+",Season 1 - Episode 23,"['Lee', 'Choji', 'Guy', 'Ibiki', 'Doubtless', 'Sakura', 'Kiba', 'Naruto', 'Sasuke', 'Akamaru', 'Tenten', 'Genin', 'Sensei', 'Shino', 'Ino', 'Rock', 'Iruka', 'Gaara', 'Kabuto', 'Neji', 'Shikamaru']"
 205,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -57074,7 +57074,7 @@
  Just prepare for it!
  Next time, “Ultimate Defense: Zero Blind Spot!”
  I hardly give up things!
-",Season 3 - Episode 60
+",Season 3 - Episode 60,"['Orochimaru', 'Jonin', 'Chen', 'Sakura', 'Popo', 'Naruto', 'Sasuke', 'Akamaru', 'Hinata', 'Tyson', 'Sanchez', 'Kazekage', 'Peking', 'Dosu', 'Bodimahattaya-san', 'Anbu', 'Gaara', 'Ole', 'Neji', 'Byakugan']"
 206,"Connecting old words that have been used up
  I just want to convey my simple thoughts
  That day's faint wind blows away
@@ -57296,7 +57296,7 @@
  Hey, what should we do?!
  If we want to continue our pursuit, there’s only one way to do it!
  Next time: “Your Opponent is Me!”
-",Season 5 - Episode 114
+",Season 5 - Episode 114,"['Ninja', 'fatso', 'Kiba', 'Palm', 'Neji', 'Naruto', 'Sasuke', 'Jirobo', 'Choji', 'Shikamaru', 'Fang', 'Buddha', 'Byakugan']"
 207,"Hey boys, listen up!
  Humans aren’t such a big deal
  Who needs tomorrow anyway,
@@ -57579,7 +57579,7 @@
  I don't know what happened, but take me there, Ton Ton!
  I'm getting a bad feeling about this!
  Next episode, “Ton Ton! I'm Counting on You!”
-",Season 6 - Episode 142
+",Season 6 - Episode 142,"['Mizuki', 'Ton', 'Orochimaru', 'Asuma', 'Guy', 'Pervy', 'Naruto', 'Jiraiya', 'Akamaru', 'Hinata', 'Shizune', 'Tsunade', 'Raijin', 'Iruka', 'Kurenai', 'Temari', 'Neji', 'Chunin', 'Fujin']"
 208,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -57958,7 +57958,7 @@
  Stop complaining and just come with me!
  Listen to me, I say. Listen! Listen! Listen!
  Next time: “Remembrance: The Lost Page”
-",Season 7 - Episode 168
+",Season 7 - Episode 168,"['Pervy', 'Sakura', 'Ninja', 'Kakashi', 'Ichiraku', 'ramen', 'Naruto', 'Choji', 'Ryonin', 'Rasengen', 'Ayame', 'Hakkaku', 'Teuchi', 'Ramen']"
 209,"Yeah, turn your sadness into kindness, your uniqueness into strength
  Even if you get lost, let’s start walking
  One more time
@@ -58162,7 +58162,7 @@
  By killing you, I can truly exist!
  Uchiha, you are my prey!
  Next time: “Astonishing Truth! Gaara’s Identity Emerges!”
-",Season 3 - Episode 73
+",Season 3 - Episode 73,"['Temari', 'Enma', 'Sannin', 'Jiraiya', 'Jutsu', 'Sasuke', 'Kankuro', 'Orochimaru', 'Sarutobi', 'Saru', 'Konohamaru', 'Uchiha', 'Ibiki', 'Gaara']"
 210,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -58453,7 +58453,7 @@
  Oh, damn it!
  What in the world should I do?!
  Next time: “Forecast: Death! Cloudy with Chance of Sun!”
-",Season 8 - Episode 190
+",Season 8 - Episode 190,"['Janin', 'Naruto', 'Yurinojou', 'Hinata', 'Jiga', 'Choji', 'Ruiga', 'Haruna', 'Shizune', 'and', 'Shadow', 'Byakugan']"
 211,"C'mon!
  Running like a fugitive,
  Being chased by something
@@ -58747,7 +58747,7 @@
  This is seriously, seriously bad!
  Bad, bad, bad, bad.
  Next episode:  ""The Tenth Question: All or Nothing!""
-",Season 1 - Episode 24
+",Season 1 - Episode 24,"['Lee', 'Sakura', 'Kiba', 'Byakugan', 'Naruto', 'Sasuke', 'Akamaru', 'Ino', 'Hinata', 'Shinobi', 'Choji', 'Shikamaru', 'Crow', 'Ibiki', 'sentinels', 'Gaara', 'as']"
 212,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -58997,7 +58997,7 @@
  – Yeah. 					– Yeah.
  I’ll protect the feudal lord!
  Next: “The Tactician’s Intent.”
-",Season 7 - Episode 162
+",Season 7 - Episode 162,"['Lee', 'Sagi', 'Toki', 'Guy', 'Chishima', 'bro', 'Naruto', 'Komei', 'Sasuke', 'Tenten', 'in', 'Moso', 'Tsunade', 'Ki', 'Cursed', 'Ma', 'Neji', 'Owashi', 'Zu', 'Byakugan']"
 213,"We are Fighting Dreamers aiming high
  Fighting Dreamers don't care what people think about them
  Fighting Dreamers follow what they believe
@@ -59222,7 +59222,7 @@
  Naruto, we go after her!
  Right! I'm ready anytime!
  Next time:  ""Breakdown! The Deal is Off!""
-",Season 4 - Episode 92
+",Season 4 - Episode 92,"['Pervy', 'Burn', 'Kabuto', 'Tsunade', 'Nine-Tailed', 'Naruto', 'Jiraiya', 'Sasuke', 'Orochimaru', 'Shizune', 'Oli']"
 214,"Rock away your existence,
  Shouting that you are here…
  A new journey begins now.
@@ -59544,7 +59544,7 @@
  If you say so, Naruto.
  I mean, do you really understand the strategy, Naruto?
  Next time: “Mystery of the Targeted Merchants.”
-",Season 8 - Episode 187
+",Season 8 - Episode 187,"['Ninja', 'Kikunojou', 'Tsunade', 'Shun', 'Yurinoshin', 'Naruto', 'Renga', 'Jutsu', 'Yurinojou', 'Hinata', 'Ruiga', 'Choji', 'Haruna', 'Momiji', 'Kikusuke', 'Shadow']"
 215,"I want to try and gather the unrestrained winds
  I’ll run toward the horizon, alongside the wave crests
  I’ve made my decision,
@@ -59873,7 +59873,7 @@
  Hey, don’t be following us like it’s matter of course, Naruto.
  You’re not listed as a member for this mission.
  Next time: “Encounter! The Boy With a Star's Name”
-",Season 7 - Episode 177
+",Season 7 - Episode 177,"['Pervy', 'Byakugan', 'Naruto', 'Jiraiya', 'Neji', 'Sasuke', 'Harem', 'Hinata', 'Jira-chan', 'Postman', 'Rasengan', 'Itachi', '-ter']"
 216,"Fly into the wavy and twisted sky, into your hands
  The distance created between us became too big,
  because we were always together
@@ -60158,7 +60158,7 @@
  – …gonna use Rasengan! – …gonna use Gatsuuga!
  – And beat up this client up so bad! – And beat up this client up so bad!
  Next time: “The Weight of The Prized Artifact!”
-",Season 8 - Episode 207
+",Season 8 - Episode 207,"['Genjutsu', 'an', 'Shino', 'Kiba', 'Naruto', 'Uroko', 'Akamaru', 'Murakumo', 'Hinata', 'Abate', 'Shinobi', 'Yakumo', 'Sensei', 'Kurenai', 'Yuhi', 'Guy', 'Unkai']"
 217,"A long time ago, a powerful demon fox appeared with nine tails.
  With its powerful tails,
  it could smash mountains and create tidal waves.
@@ -60461,4 +60461,4 @@
  If you want it that bad, you're gonna have to beat me first!
  Next episode:  ""My Name Is Konohamaru!""
  Watch my outstanding performance!
-",Season 1 - Episode 01
+",Season 1 - Episode 01,"['Transform', 'Sakura', 'Mizuki', 'Sensei', 'Hokage', 'Naruto', 'Demon', 'Sasuke', 'Iruka', 'lruka']"

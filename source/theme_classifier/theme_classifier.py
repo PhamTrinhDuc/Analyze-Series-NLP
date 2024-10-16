@@ -45,30 +45,30 @@ class ThemeClassifier:
             themes_scores: dictionary chứa các chủ đề và điểm số tương ứng
         """
         themes_scores = {}
-        # try:
-        scripts_sentences = sent_tokenize(scripts)
+        try:
+            scripts_sentences = sent_tokenize(scripts)
 
-        sentences_batch_size = 20
-        scripts_batches = []
-        for idx in range(0, len(scripts_sentences), sentences_batch_size):
-            sent = " ".join(scripts_sentences[idx:idx + sentences_batch_size])
-            scripts_batches.append(sent)
-        
-        theme_output = self.theme_classifier(
-            scripts_batches,
-            self.theme_list,
-            mutil_label=True
-        )
+            sentences_batch_size = 20
+            scripts_batches = []
+            for idx in range(0, len(scripts_sentences), sentences_batch_size):
+                sent = " ".join(scripts_sentences[idx:idx + sentences_batch_size])
+                scripts_batches.append(sent)
+            
+            theme_output = self.theme_classifier(
+                scripts_batches,
+                self.theme_list,
+                mutil_label=True
+            )
 
-        for output in theme_output:
-            for label, score in zip(output['labels'], output['scores']):
-                if label not in themes_scores:
-                    themes_scores[label] = []
-                themes_scores[label].append(score)
-        
-        themes_scores = {key: np.mean(np.array(value)) for key, value in themes_scores.items()}
-        # except Exception as e:
-        #     logging.error(f"Error when classifying theme [CLASSIFY_THEME]: {str(e)}")
+            for output in theme_output:
+                for label, score in zip(output['labels'], output['scores']):
+                    if label not in themes_scores:
+                        themes_scores[label] = []
+                    themes_scores[label].append(score)
+            
+            themes_scores = {key: np.mean(np.array(value)) for key, value in themes_scores.items()}
+        except Exception as e:
+            logging.error(f"Error when classifying theme [CLASSIFY_THEME]: {str(e)}")
         return themes_scores
     
     def get_themes(self) -> pd.DataFrame:

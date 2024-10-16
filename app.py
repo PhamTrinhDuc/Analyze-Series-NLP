@@ -40,5 +40,6 @@ def main():
     interface.launch(share=True)
 
 if __name__ == "__main__":
-    output_chart = get_themes("friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue")
-    print(output_chart)
+    # output_chart = get_themes("friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue")
+    # print(output_chart)
+    main()

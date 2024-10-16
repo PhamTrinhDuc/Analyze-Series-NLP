@@ -14,7 +14,7 @@ from configs.configurator import CONFIGURATOR
 
 nltk.download("punkt")
 nltk.download("punkt_tab")
-cnt = 0
+# cnt = 0
 class ThemeClassifier:
     def __init__(self, theme_list):
         self.device = 0 if torch.cuda.is_available() else 'cpu'
@@ -44,9 +44,9 @@ class ThemeClassifier:
         Returns:
             themes_scores: dictionary chứa các chủ đề và điểm số tương ứng
         """
-        global cnt
-        cnt += 1
-        print(cnt)
+        # global cnt
+        # cnt += 1
+        # print(cnt)
         themes_scores = {}
         try:
             scripts_sentences = sent_tokenize(scripts)

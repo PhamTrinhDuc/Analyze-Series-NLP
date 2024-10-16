@@ -1,4 +1,4 @@
-# scrapy==2.8.0
+# scrapy==3.7.5
 # beatifulsoup4==4.12.3
 Twisted==22.10.0
 transformers==4.44.0

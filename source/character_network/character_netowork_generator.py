@@ -18,7 +18,7 @@ class CharacterNetworkGenerator:
             for character in entity:
                 for i in range(len(entity)):
                     if character != entity[i]:
-                        entity_relationship.append(sorted(character, entity[i]))
+                        entity_relationship.append(sorted([character, entity[i]]))
         
         entity_relationship = pd.DataFrame({'value': entity_relationship})
         entity_relationship['source'] = entity_relationship['value'].apply(lambda x: x[0])

@@ -41,7 +41,7 @@ class NamedEntityRecognizer:
 
             if len(ners) > 0:
                 ner_output.update(list(ners))
-        print(list(ner_output))
+        # print(list(ner_output))
         return list(ner_output)
     
     def get_ners(self):
@@ -54,9 +54,9 @@ class NamedEntityRecognizer:
             pandas.DataFrame: DataFrame chứa các thực thể được đặt tên.
         """
 
-        # if os.path.exists(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH) and 'ners' in self.df.columns:
-        #     self.df['ners'] = self.df['ners'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
-        #     return self.df
+        if os.path.exists(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH) and 'ners' in self.df.columns:
+            self.df['ners'] = self.df['ners'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
+            return self.df
 
         self.df['ners'] = self.df['scripts'].apply(self.get_named_entities)
         self.df.to_csv(CONFIGURATOR.SAVE_THEME_SCRIPT_PATH, index=False)

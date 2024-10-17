@@ -19,7 +19,7 @@ class ThemeClassifier:
     def __init__(self, theme_list: str = "friendship, hope, sacrifice, battle, self, development, betrayal, love, dialogue"):
         self.device = 0 if torch.cuda.is_available() else 'cpu'
         self.theme_list = theme_list
-        self.MODEL_NAME = CONFIGURATOR.MODEL_NAME_CLASSIFY
+        self.MODEL_NAME = CONFIGURATOR.MODEL_NAME_THEME
         self.theme_classifier = self.load_model()
     
     def load_model(self):

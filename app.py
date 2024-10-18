@@ -1,7 +1,11 @@
 import gradio as gr
+from typing import Optional
+from source.theme_classifier import ThemeClassifier
 from source.character_network.named_entity_recognizer import NamedEntityRecognizer
 from source.character_network.character_netowork_generator import CharacterNetworkGenerator
-from source.theme_classifier import ThemeClassifier
+from source.jutsu_classify.jutsu_classifier import JutsuClassifier
+
+
 
 def get_themes(theme_list_str: str):
     theme_list = theme_list_str.split(',')
@@ -36,6 +40,16 @@ def character_network():
     output_html = network_character.draw_entity_graph(entity_relationship=relationship_df)
     return output_html
 
+def jutsu_classification(
+        input_query: str,
+        model_name: Optional[str] = None,
+        model_path: Optional[str] = None, 
+        hf_token: Optional[str] = None,):
+    jutsu_classifier = JutsuClassifier(model_name=model_name, 
+                                       token_df=hf_token, 
+                                       model_path=model_path)
+    output_text = jutsu_classifier.inference(text=input_query)
+    return output_text
 
 def main():
     with gr.Blocks() as iface:
@@ -63,8 +77,23 @@ def main():
                     with gr.Column():
                         character_network_button = gr.Button("Generate Character Network")
                         character_network_button.click(character_network, outputs=[html_output])
-
-
+        
+        # Classifiy Jutsu 
+        with gr.Row():
+            with gr.Column():
+                gr.HTML("<h1> Classify Jutsu</h1>")
+                with gr.Row():
+                    with gr.Column():
+                        output_cls = gr.Textbox(label="Text classsification output")
+                    with gr.Column():
+                        input_query = gr.Textbox(label="query", placeholder="query")
+                        model_name = gr.Textbox(label="Model Name", placeholder="model name")
+                        model_path = gr.Textbox(label="Model Path", placeholder="model path")
+                        hf_token = gr.Textbox(label="Huggingface Token", placeholder="huggingface token")
+                        jutsu_classifier_button = gr.Button("Classify Jutsu")
+                        jutsu_classifier_button.click(jutsu_classification, 
+                                                      inputs=[input_query, model_name, model_path, hf_token],
+                                                      outputs=[output_cls])
     iface.launch(share=True)
 
 if __name__ == "__main__":

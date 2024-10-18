@@ -8,7 +8,6 @@ class Configurator:
 
     # jutsu classifier:
     MODEL_NAME_JUTSU = "distilbert/distilbert-base-uncased"
-    MODEL_JUTSU_PATH = ""
 
     # data:
     SUBTITLE_PATH =  "data/original/subtitlist"

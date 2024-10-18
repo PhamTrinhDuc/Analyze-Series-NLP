@@ -43,7 +43,7 @@ def character_network():
 def jutsu_classification(
         input_query: str,
         model_name: Optional[str] = None,
-        model_path: Optional[str] = None, 
+        model_path: Optional[str] = '', 
         hf_token: Optional[str] = None,):
     jutsu_classifier = JutsuClassifier(model_name=model_name, 
                                        token_df=hf_token, 

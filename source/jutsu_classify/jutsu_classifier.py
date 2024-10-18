@@ -53,7 +53,7 @@ class JutsuClassifier:
     def __init__(self, 
                  model_name: Optional[str] = CONFIGURATOR.MODEL_NAME_JUTSU,
                  token_df: Optional[str] = os.getenv("HF_TOKEN"),
-                 model_path: Optional[str] = None) -> None:
+                 model_path: Optional[str] = "PhamTrinhDuc/Jutsu-Classification") -> None:
         
         self.model_name = model_name
         self.model_path = model_path

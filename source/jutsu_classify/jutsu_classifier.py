@@ -93,7 +93,7 @@ class JutsuClassifier:
     def load_data(self):
         df = pd.read_json(self.data_path, lines=True)
         df['jutsu'] = df['jutsu_type'].apply(self._simplify_jutsu)
-        df['text'] = df['jutsu_name'] + ". " + df['description']
+        df['text'] = df['jutsu_name'] + ". " + df['jutsu_description']
         df = df[['text', 'jutsu']]
         df = df.dropna()
 

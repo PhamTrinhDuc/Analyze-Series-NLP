@@ -22,8 +22,6 @@ def main():
     train_dateset, test_dataset = jutsu_classifier.load_data()
     jutsu_classifier.training(train_data=train_dateset, test_data=test_dataset)
 
-
-    
 if __name__ == "__main__":
     main()
     # pass

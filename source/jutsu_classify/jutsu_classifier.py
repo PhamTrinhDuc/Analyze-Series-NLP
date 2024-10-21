@@ -31,14 +31,15 @@ class CustomerTrainer(Trainer):
     Mục đích chính là tùy chỉnh cách tính toán loss function trong quá trình huấn luyện mô hình.
     """
     def compute_loss(self, model, inputs, return_outputs = False):
-        labels = inputs.get("labels").float()
+        labels = inputs.get("labels")
 
         # Forward pass
         outputs = model(**inputs)
-        logits = outputs.logits 
+        logits = outputs.get('logits')
+        logits = logits.float()
 
         # compute custom loss
-        loss_fct = nn.CrossEntropyLoss(weight=torch.tensor(self.class_weights).to(self.device))
+        loss_fct = nn.CrossEntropyLoss(weight=torch.tensor(self.class_weights, dtype=torch.float).to(self.device))
         loss = loss_fct(logits.view(-1, self.model.config.num_labels), labels.view(-1))
         return (loss, outputs) if return_outputs else loss   
     
@@ -91,23 +92,26 @@ class JutsuClassifier:
         return model
 
     def load_data(self):
-        df = pd.read_json(self.data_path, lines=True)
+        df = pd.read_json(self.data_path,lines=True)
         df['jutsu'] = df['jutsu_type'].apply(self._simplify_jutsu)
         df['text'] = df['jutsu_name'] + ". " + df['jutsu_description']
         df = df[['text', 'jutsu']]
         df = df.dropna()
 
-        # clean text
+        # Clean Text
         cleaner = Cleaner()
         df['text_cleaned'] = df['text'].apply(cleaner.clean)
 
-        # encode label
+        # Encode Labels 
         le = LabelEncoder()
         le.fit(df['jutsu'].tolist())
         df['label'] = le.transform(df['jutsu'].tolist())
 
-        # train test split
-        data_train, data_test = train_test_split(df, test_size=0.2, stratify=['label'])
+        # Train / Test Split
+        test_size = 0.2
+        data_train, data_test = train_test_split(df, 
+                                            test_size=test_size, 
+                                            stratify=df['label'],)
 
         # convert to huggingface dataset
         data_train = Dataset.from_pandas(data_train)
@@ -120,9 +124,10 @@ class JutsuClassifier:
     
 
     def get_class_weights(self, df: pd.DataFrame):
-        class_weights = compute_class_weight(class_weight='balanced', 
-                                             classes=sorted(df['label'].unique().tolist()), 
-                                             y=df['label'])
+        class_weights = compute_class_weight("balanced",
+                         classes = np.array(sorted(df['label'].unique())),
+                         y = df['label'].tolist()
+                         )
         return class_weights
     
     def compute_metrics(self, eval_pred):
@@ -167,8 +172,10 @@ class JutsuClassifier:
             compute_metrics=self.compute_metrics
         )
 
-        trainer.set_class_weights(class_weghts=class_weights)
+        trainer.set_class_weights(class_weights=class_weights)
         trainer.set_device(device=self.device)
+
+        trainer.train()
 
         # Flush memory
         del trainer, model # xóa biến trainer và model khỏi bộ nhớ
